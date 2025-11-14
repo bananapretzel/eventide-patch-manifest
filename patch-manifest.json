@@ -1,40 +1,12 @@
 {
-  "latestVersion": "1.0.5",
+  "latestVersion": "1.0.1",
   "patches": [
     {
       "from": "1.0.0",
       "to": "1.0.1",
-      "zipUrl": "https://github.com/YOUR_USER/eventide-patches/releases/download/v1.0.1/patch-1.0.0-to-1.0.1.zip",
-      "sha256": "HASH_OF_PATCH_ZIP_1",
-      "sizeBytes": 12345678
-    },
-    {
-      "from": "1.0.1",
-      "to": "1.0.2",
-      "zipUrl": "https://github.com/YOUR_USER/eventide-patches/releases/download/v1.0.2/patch-1.0.1-to-1.0.2.zip",
-      "sha256": "HASH_OF_PATCH_ZIP_2",
-      "sizeBytes": 23456789
-    }
-    {
-      "from": "1.0.2",
-      "to": "1.0.3",
-      "zipUrl": "https://github.com/YOUR_USER/eventide-patches/releases/download/v1.0.2/patch-1.0.1-to-1.0.2.zip",
-      "sha256": "HASH_OF_PATCH_ZIP_2",
-      "sizeBytes": 23456789
-    }
-    {
-      "from": "1.0.3",
-      "to": "1.0.4",
-      "zipUrl": "https://github.com/YOUR_USER/eventide-patches/releases/download/v1.0.2/patch-1.0.1-to-1.0.2.zip",
-      "sha256": "HASH_OF_PATCH_ZIP_2",
-      "sizeBytes": 23456789
-    }
-    {
-      "from": "1.0.4",
-      "to": "1.0.5",
-      "zipUrl": "https://github.com/YOUR_USER/eventide-patches/releases/download/v1.0.2/patch-1.0.1-to-1.0.2.zip",
-      "sha256": "HASH_OF_PATCH_ZIP_2",
-      "sizeBytes": 23456789
+      "zipUrl": "https://github.com/bananapretzel/eventide-patch-manifest/archive/refs/tags/v1.0.1.zip",
+      "sha256": "e1fb93118428357eed6ed61a7a2bd0ee5ba8351885d58776a21ea19d50fc7ee8",
+      "sizeBytes": 704
     }
   ]
 }
