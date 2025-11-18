@@ -5,8 +5,9 @@
       "from": "1.0.0",
       "to": "1.0.1",
       "fullUrl": "https://github.com/bananapretzel/eventide-patch-manifest/releases/download/v1.0.1/eventide-1.0.0-to-1.0.1.zip",
-      "sha256": "7ac55dbaabeba4bcd430d82974c73bc093db28bb97163b80271ca11af9b6e1c4",
-      "sizeBytes": 404
+      "sha256": "cf8c03230433956a615a2031d9403075157eea6469fd50870f787996faae2efc",
+      "sizeBytes": 40630021
+
     }
   ]
 }
