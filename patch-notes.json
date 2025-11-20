@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Simseru",
+    "timestamp": "2024-10-06T04:26:00.000Z",
+    "message": "[Mastery]\n!Mastery command implemented for players to check there status. -- TY Azure\n\n[Fishing]\nIs now enabled.\nRequires level 10 to start.\n\n[Wardrobe]\nWardrobes 3-8 should now function properly."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-10-07T16:42:00.000Z",
+    "message": "[Mastery]\nThief Mastery 2 is no longer shared across all thieves.\n\n[Materia]\nOboro has been enabled in Port Jeuno near Qufim.\n\n[Auction House]\nMultiple pages implemented to view sales past first 7 items.\n\n[Equipment]\nAll experience ring buffs now lasts 12 hours.\n\n[Notorious Monsters]\nQu'Vho Deathhurler will now spawn properly.\nAmanita will now spawn properly.\nDuke Decapod will now spawn properly.\n\n[Mobs]\nLevel 1 starter zone mobs respawn time is now set to 60 seconds(this will remain indefinitely). \n\n[Beastmaster]\nCan no longer familiar the same pet more than once.\nCharm will be less effective when Beastmaster is your subjob."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-10-13T03:08:00.000Z",
+    "message": "[Experience Points]\nIf you are within 10 levels of the sync target you gain full EXP.\nIf you are within 11 - 15 levels of the sync target you gain 50% exp.\nIf you are within 16 - 20 levels of the sync target you gain 25% exp.\nIf you are within 21+ levels of the sync target you gain 10% exp.\n\nEXP Chain timers have been doubled at all levels for anything Even Match and Higher.\n\n[Auction House]\nListings increased from 21 >> 35.\n\n[Misc]\nNumerous misc bugs and exploits fixed"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-10-18T22:45:00.000Z",
+    "message": "[Mastery]\nRedmage Mastery 1 is now properly functional and providing 10% Magic Accuracy as advertised.\n\n[Ranger]\nRanged distance nerf will no longer affect Ranger ranged attacks.\n\n[Corsair]\nRanged distance nerf will no longer affect Corsair ranged attacks.\n\n[Samurai]\nChange for Seigan Third eye to avg 2-3 procs.\n\n[Blue Mage]\nTP Scaling with Bludgeon corrected. Was not scaling at all.\n\n[NPCs]\nEphemeral Moogles are now active.\n\n[Guilds]\nAll guild now have Lightsday as there holiday and business hours are now 1 to 23.\n\n[Mobs]\nAll normal dungeon mobs have had their respawn times set to 5.5mins.\nAll open-world NMs that are for AF weapons that are effected by the NM Stat bump have had their levels adjusted to 40.\n\n[Experience Points]\nIf you are within 15 levels of the sync target you will get 100% of the exp.\nIf you are over 15 levels away from the sync target the following penalties will apply:\nIf fighting Easy Prey or Decent Challenge, you will have a 75% penalty.\nIf fighting Even Match or higher, you will receive a 20% penalty."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-10-22T02:36:00.000Z",
+    "message": "[Mastery]\nWhite Mage Mastery 2 enabled.\nBlack Mage Mastery 2 enabled.\n\n[Misc]\nChocobo refunds turned off.\nFast travel to Porgonorgo Isle adjusted to 1 Dhalmel Meat.\nSome gil cheese retired."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-11-01T22:37:00.000Z",
+    "message": "[1 Handers]\n1 Handed accuracy formula updated. DEX will now give .75 accuracy increased from .5 to match 2H.\n\n[Throwing]\nSweet spot change from <= 1 yalm to <= 5 yalms to accomodate for melee range play.\nBoomerang/Chakram type throwing weapons are no longer typeless damage and will be impact blunt.\n\n[Blue Mage]\nThe following spell's have been updated. Mostly noticable with Chain Affinity usage. Please provide feedback.\nBludgeon, Mandibular Bite, Jetstream, Sickle Slash.\n\n[Ninja]\nMastery 2 enabled.\nAfter dealing 2500 dmg with ranged attacks the Daken trait will unlock.\n\n[White Mage]\nMastery 2 no longer obtainable with WHM sub-job.\n\n[Dark Knight]\nLast Resort now lasts 3 minutes.\n\n[Puppetmaster]\nAutomaton's can now successfully Cure themselves.\n\n[Paladin]\nMastery 2 enabled.\nAfter healing 2500 dmg the ability Majesty will unlock.\n\n[Mobs]\nMulti-hit weapon skills are now hitting properly. Please report feedback for abnormal damage.\nFixed an incorrect Quu Domi placeholder.(A drummer was tagged instead of an oracle)\n\n[NPCs]\nHugo in Whitegate will now allow players to teleport to major cities.\n\n[Spells]\nBind duration calculation reworked to increase overall duration.\n\n[Drops]\nChest keys all standardized to 5% drop rate.(Kazham keys are 10% exception)\nCoffer keys all standardized to 5% drop rate.\nDhalmel Hides updated globally to 15% drop rate.\nTiger Fangs in Battalia Down updated to 24% drop rate from 15%.\nBird Blood updated to 24% 24% 24% instead of 15% 15% 15%.\n\n[Misc]\nGarlaige weighted stones now usable on banishing gates.\nNation placement requirements removed from CP items.\nLB2 Frigicite ??? will now last 2 minutes, up from 1."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2024-11-19T05:15:00.000Z",
+    "message": "Greater Colibri  mob lv 82-84\nBibiki Bay camps added\nDhalmels lv 73-75\nBight Rarab 84-85\nLocus Ghost Crab lv 85"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-11-21T01:44:00.000Z",
+    "message": "[Puppetmaster]\nLB5 now active. You will need to let a GM know you are doing it before entering or you will have issues.\n\n[Dragoon]\nAfter Mastery 1 is completed your Wyvren will acquire a new look.\n\n[Experience]\nTo encourage players to not exp exclusively on EP mobs up to lvl 30 the follow changes have occurred.\n\nWhen killed by a group of players all below the mobs level the below monsters have a 5% chance on death to respawn as a Metal Slime. Metal Slimes will provide players the following:\n100 * moblevel bonus EXP.\n100 * moblevel bonus GIL.\n20% chance to provide Dream Gear +1.\n\nValkurm Dunes:\nHill Lizard, Sand Hare, Snipper, Damselfly, Brutal Sheep.\n\nBuburimu Peninsula:\nSylvestre, Mighty Rarab, Bull Dhalmel, Zu, Carniverous Crawler\n\nRolanberry Fields:\nBerry Grub, Death Wasp\n\nQufim Island:\nClipper, Greater Pugil, Landworm\n\nYuhtunga Jungle:\nDeath Jacket, Yuhtunga Mandragora\n\nBibiki Bay:\nIsland Rarab, Marine Dhalmel, Raven\n\n[Items]\nPickaxe/Hatchet/Sickle/Gysahl Greens now stack to 99.\nAir Tanks added to all higher level goblins in Bibiki Bay at a 5% drop rate.\n\n[Equipment]\nCOR PUP BLU Relic armors added back into dynamis cities.\n\n[Merits]\nMerit categories all adjusted. Updated DATs will be needed to see the changes.\n\n[HNM System]\nUpdated confrontation effect to persist through death."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2024-11-25T19:49:00.000Z",
+    "message": "**Slime Update/Adjustment**\nWhen killed by a group of players all below the mobs level the below monsters have a 5% chance on death to respawn as a Metal Slime. Metal Slimes will provide players the following:\n1500 bonus EXP.\nPossible bonus GIL. \n20% chance to drop a secret cosmetic from each different mob (happy hunting)\n\nValkurm_Dunes/mobs/Brutal_Sheep\nValkurm_Dunes/mobs/Damselfly\nValkurm_Dunes/mobs/Hill_Lizard\nValkurm_Dunes/mobs/Snipper\nBuburimu_Peninsula/mobs/Bull_Dhalmel\nBuburimu_Peninsula/mobs/Mighty_Rarab\nBuburimu_Peninsula/mobs/Sylvestre\nBuburimu_Peninsula/mobs/Zu\nQufim_Island/mobs/Clipper\nQufim_Island/mobs/Land_Worm\nQufim_Island/mobs/Greater_Pugil\nRolanberry_Fields/mobs/Death_Wasp\nRolanberry_Fields/mobs/Berry_Grub\nYuhtunga_Jungle/mobs/Death_Jacket\nYuhtunga_Jungle/mobs/Yuhtunga_Mandragora\nBibiki_Bay/mobs/Marine_Dhalmel\nBibiki_Bay/mobs/Toucan\nBibiki_Bay/mobs/Catoblepas\nBibiki_Bay/mobs/Locus_Camelopard\nBibiki_Bay/mobs/Locus_Ghost_Crab\nThe_Sanctuary_of_ZiTah/mobs/Master_Coeurl\nThe_Sanctuary_of_ZiTah/mobs/Ogrefly\nEastern_Altepa_Desert/mobs/Desert_Dhalmel\nCrawlers_Nest/mobs/Death_Jacket\nGarlaige_Citadel/mobs/Siege_Bat\nYhoator_Jungle/mobs/Yhoator_Mandragora\nLabyrinth_of_Onzozo/mobs/Cockatrice\nLabyrinth_of_Onzozo/mobs/Torama\nWestern_Altepa_Desert/mobs/Desert_Beetle\nBostaunieux_Oubliette/mobs/Werebat\nWajaom_Woodlands/mobs/Lesser_Colibri\nMount_Zhayolm/mobs/Magmatic_Eruca\nThe_Boyahda_Tree/mobs/Processionaire\nCaedarva_Mire/mobs/Heraldic_Imp\nBhaflau_Thickets/mobs/Locus_Colibri"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-02T03:37:00.000Z",
+    "message": "[BLU]\nFrenetic Rip adjusted. Damage increase.\n\n[PUP]\nAsuran Fists now usable.\n\n[Systems]\nZilart dynamis may now be entered. Dreamlands disabled.\n\n[Spells]\nMonomi:Ichi added to Tonberry King.\n\n[Mobs]\nTonberry King level adjsuted to 76-77.\n\n[Synths]\nSynthesis added for Sanjaku-Tenugui.\n\n[Quests]\nLure of the wildcat quest no longer required for the teleport to Aht-Urghan. All other requirements still in place.\nCOR Unlock will now provide a Firefly. If already completed you can purchase from Thadiene in South Sandoria for 10k."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2024-12-02T04:08:00.000Z",
+    "message": "[Spells]\nDrain fixed (player will now receive the remaining HP from the mob casted on if the mob is killed with drain)."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-05T00:37:00.000Z",
+    "message": "[BLU]\nThe following Blue Magic has been updated. If the spell is OOE this does not mean it is now obtainable.\n\nAsuran Claws\nBody Slam\nCannonball\nClaw Cyclone\nDeath Scissors\nDimensional Death\nDisseverment\nFoot Kick\nFrypan\nGrand Slam\nHelldive\nHydro Shot\nHysteric Barrage\nJet Stream\nMind Blast\nPower Attack\nQueasyshroom\nRam Charge\nScrewdriver\nSeedspray\nSickle Slash\nSmite of Rage\nSpinal Cleave\nSpiral Spin\nSub-Zero Smash\nTail Slap\nTerror Touch\nUppercut\nVertical Cleave\n\n[Misc]\nSlimes will now have unique names and should revert back when respawning as a normal mob."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-05T08:13:00.000Z",
+    "message": "[Materia]\nMateria Tier 2 will be tied to Zilart-Dynamis.\n\nNM's will all now provide + 1 Tier 2 Materia Currency for the alliance on kill.\nMega Boss's will all now provide + 5 Tier 2 Materia Currency for the alliance on kill.\nDynamis Lord will now provide + 15 Tier 2 Materia Currency for the alliance on kill.\n\nAt this time Tier 2 Materia will still not be acquirable itself but I wanted to get this piece in the game while people are starting to farm to later be used at a vendor to acquire T2 Materia.\n\nMateria stats and costs are yet to be determined. \n\nI am aware Jeuno and Glacier are very heavy with NMs and will be the go-to for farming Materia currency. This may be addressed in the future but just wanted to get this in sooner rather than later.\n\nAnyone who has already run dynamis will not be provided this retroactively as groups may have routed differently or chose a different zone entirely had this been in place previously."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-05T18:23:00.000Z",
+    "message": "Dyna currency is no longer able to be put on the AH or traded when using incorrect .dat files.\nWyvern Skulls are no longer rare & ex and stack to 12."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-14T01:13:00.000Z",
+    "message": "[Misc]\n!getstats command can now be used by players to be able to do your own math/theorycrafting.\n\n[Melee Damage]\nMelee Damage pDIF formula adjusted to increase effective attack cap.\npDIF is (Attack/Defense) the old ceiling was 2.25. The new ceiling is 3.75. This will unlikely effect regular player damage unless extremely geared and with perfect party compositions. The main goal of this is many weaponskills have attack modifiers which could not break through this ceiling resulting in many weaponskills having lower than expected damage output. \n\n[Mobs]\nMob TP gain formula has been adjusted. Previously all attacks would have a (baseTP +30) so 1 handers that attack fast proc the additional +30 significantly more often than 2 handers. This has been dialed back to +10 to see how this feels.\n\nMob TP usage formula has been updated. Previously mobs would have immediate WS usage under these criteria.\n100% to 51% HP with 3k TP.\n50% to 26% with 2k TP.\n1%-25% with 1k TP.\nThis remains in place but there is another layer to add the potential for mob WS usage outside of this rigid system.\n\nIf a mob has 1k or more TP and the above criteria is not met there will be a chance (TP/150) to use a WS on an incremental server tick. IE. if a mob is at 83% HP and has 1749 TP it will be (1749/150) an 11.66% chance per server tick to use a WS. If the mob manages to reach 3k TP before the chance successfully procs it will then trigger a forced WS using previous code.\n\nThis should help with 2 things:\n[1] Previously if a mob is at 51% or higher its TP moves are all at 3k strength which is max modifiers for big potential dmg.\n[2] Reduce mob predictability.\n\nPlease provide feedback on player experience when interacting with the reduced mob TP gains and the additional potential for mobs to choose to use a WS.\n\n[Drops]\nThousand Eyes in King Ranperre's Tomb corrected to drop Burning Hakutaku Eye."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-18T07:32:00.000Z",
+    "message": "[General]\nPet pathfinding AI improved.\n\n[BST]\nChopsuey Chucky corrected to 60 minute duration.\nAmigo Sabotender corrected to 30 minute duration.\nMNK pet jugs now swing twice.\n\n[BRD]\nMastery 2 is now active.\nAfter casting 100 Etudes Pianissimo will be learned.\n\n[RDM]\nMastery 2 is now active.\nAfter casting 150 enhancing magic spells gain 50% increased enhaning magic duration.\n\nMastery 3 is now active.\nAfter casting Haste 100 times on a RNG or COR Flurry will be learned.\n\n[DRK]\nMastery 2 is now active.\nAfter casting 100 absorb spells your absorb spells will gain the absorb affect for all absorb spells you have learned.\n\n[MNK]\nMastery 2 is now active.\nAfter using 100 weapon skills that are affected by Boost, Boost will now have 4x potency with 4x cooldown.\n\n[Misc]\nMog Safe 2 now enabled.\nPso'Xja mobs no longer flicker/disappear.\nThe Holy Crest BCNM fight now correctly has TP abilities."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-25T17:10:00.000Z",
+    "message": "[BST/SMN]\nCharm completely overhauled to work more retail accurate.\nCharisma now affects success rate much more.\nCharm+ Duration gear now more effective. \nBugs with charmed mobs despawning fixed.\nPet Food Zeta heal increased.\nSeveral familiar issues corrected.\n\n[BLM]\n-BLM is performing exceedingly well against highly difficult mobs so the following adjustment has been made-\nMagic Accuracy bonus from INT has been reduced for damaging spells. Instead of dINT/2 it is now dINT/4. \n\n[Auction House]\nCrab Sushi wil now show up.\nGeodes will now be seen under Misc.\n\n[NPC]\nHugo[Whitegate] now has additional warp options.\nA Test of True Love quest fixed.\n\n[Mobs]\nA new custom merit camp has been added to Misareaux Coast.\nAdditional Colibri added to Watch Tower Camp in Bhaflau Thickets(61~EXP party camp)\nMarid and Chigoe adjustments made to function properly.\nGrand Marids now spawn from Marids as PHs and reward 1500 exp upon death (Shiny/Slime mechanic).\nKarakul animation has been fixed.\nKarakul in Caedarva Mire now spawn chigoes when they TP.\nKarakul NM in Caedarva Mire spawns 2 Chigoes when using TP.\nSome Qiqirn TP moves corrected and they will now properly strip you.\nAll Qutrub TP moves were overhauled.\nQutrub now swap weapons and can have them broken.\nPuks no longer gain Regain effect on Windsday or during Wind weather / Gales (retail accuracy).\nImp Aggro behavior was changed to match retail.\nImps can now have their horns broken.\nImp NMs now have Stifling and Grating Tantara.\n\n[HNM]\nConfrontation buff should now work correctly through all tiers and persist through death.\nBehemoth Thunderbolt damage slightly increased.\n\n[Spells]\nAbsorb-ACC converted to in-era to retain in spell list."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-25T18:00:00.000Z",
+    "message": "[Slime/Shiny]\n**Slime Additions**\n** DO NOT DROP COSMETICS PURELY EXP CURRENTLY **\nBhaflau_Thickets/mobs/Colibri.lua\nCape_Teriggan/mobs/Sand_Cockatrice.lua\nCape_Teriggan/mobs/Velociraptor.lua\nDen_of_Rancor/mobs/Puck.lua\nDen_of_Rancor/mobs/Tormentor.lua\nKing_Ranperres_Tomb/mobs/Locus_Spartoi_Sorcerer\nKing_Ranperres_Tomb/mobs/Locus_Spartoi_Warrior\nKing_Ranperres_Tomb/mobs/Locus_Tomb_Worm\nKing_Ranperres_Tomb/mobs/Locus_Armet_Beetle\nKing_Ranperres_Tomb/mobs/Locus_Dire_Bat\nKuftal_Tunnel/mobs/Deinonychus\nKuftal_Tunnel/mobs/Recluse_Spider\nKuftal_Tunnel/mobs/Robber_Crab\nMount_Zhayolm/mobs/Scoriaceous_Eruca\nMount_Zhayolm/mobs/Wamoura_Prince\nRoMaeve/mobs/Apocalyptic_Weapon\nRoMaeve/mobs/Infernal_Weapon\nThe_Boyahda_Tree/mobs/Bark_Spider\nThe_Boyahda_Tree/mobs/Robber_Crab\nValley_of_Sorrows/mobs/Peryton\nValley_of_Sorrows/mobs/Velociraptor\nAydeewa_Subterrane/mobs/Phlebotomic_Slug\nYhoator_Jungle/mobs/Worker_Crawler\nCarpenters_Landing/mobs/Diving_Beetle\nYhoator_Jungle/mobs/Master_Coeurl\nMisareaux_Coast/mobs/Avatar_Spirit"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-25T19:25:00.000Z",
+    "message": "KSNM latent weapons like Destroyers are now pemanently active and do not require 500 WS to trigger latent.\nThe crit is now general character crit and not crit to that specific weapon slot."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2024-12-31T18:46:00.000Z",
+    "message": "[BLM]\nOccult Accumen no longer works on -GA spells.\n\n[BST]\nMore charm adjustments.\n\n[DRK]\nAbsorb-Acc fixed after completing mastery 2.\n\n[WHM]\nReraise adjusted to level 25 to match the scroll.\n\n[NPC]\nHugo merit camp warps now cost ISP instead of gil.\nBronze Bullet NPC prices have been reduced.\nInside the Belly quest has been updated.\nSome OOE spells removed from vendors.\nMono Nchaa adjusted to prevent client crashing.\n\n[Mobs]\nMovement logic updated to prevent mob WS while moving and being easily outranged.\nErlik in Gustav Tunnel respawn time reduced to 5m to match other mobs.\nIncorrect loot tables in Dangruf Wadi updated.\nSome Demon NM WS tables corrected.\n\n[Items]\nKilicbaligi fish is now the correct size.\n\n[Dynamis]\nJeuno personal loot fixed.\n\n[AH]\nUnlimited listings added."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-01-04T10:11:00.000Z",
+    "message": "Elemental Ore's are re-enabled on Avatar Spirits. (0.1% drop rate, Can be affected by TH)"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-01-11T16:36:00.000Z",
+    "message": "[COP]\n8-2 Escort Fixed.\n\n[BST]\nMore changes to Charm to try to prevent charmed mobs from despawning.\n\n[PUP]\nAutomaton's crashing instances fixed.\n\n[Quests]\nThe Pickpocket quest fixed.\nLike Shining Leggings quest fixed.\n\n[Crafts]\nFollowing Synth Recipes Added/Updated:\nGold Ring (Desynth)\nPlatinum Rod (Desynth)\nQigirin Cape (Desynth)\nQiqirin Sandbag (Desynth)\nJaridah Salvars\nHammermill\nMana Jammer II\nAccelerator\nTension Spring\nTension Spring II\n\n[HELM]\nSome OOE items have been removed.\n\n[BCNM]\nTreasures and Tribulations JSE Ring drop rates standardized.\n\n[MISC]\nOld Goobbue drop list corrected.\nAuto-Target after killing an enemy has been adjusted.\n75 Chars will no longer be immune to mob aggro from mobs below level 61.\nMedicine drinks from Avatar Camp fixed."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-01-11T16:43:00.000Z",
+    "message": "[Dynamis]\nTrade the goblins in the beastmen zones to convert your currency to that zones currency.\nIE: Trade 10 Bynne Bills or Tukuku Shells to Goblin in Davoi to receive Bronzepieces\nCurrency conversion now available.\nTrade 10:10 for Singles.\nTrade 1:1 for Hundreds.\n\n[COR]\nTemporary changes to Light and Dark shot implemented."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-01-17T18:32:00.000Z",
+    "message": "[COR]\nMastery 2 enabled:\nAfter 400 Quick Draws[Non-light/dark], Quick Draws[non-light/dark] now apply Velocity Shot for 30 seconds.\n\n[DRG]\nMastery 2 enabled:\nAfter 300 jumps aggresive Wyvern Breaths will reset either Jump or High Jumps cooldown.\n\n[Christmas]\nEvent should be over\n\n[Misc]\nSattva Ring corrected for selection screen at end of COP.\nDynamis Currency Converter inactive for now."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-02-07T01:45:00.000Z",
+    "message": "[Materia]\n\nT2 Materia now active. Purchasable in Ru'Lude Gardens at NPC Pitenorelieu. Both Oboro and Pitenorelieu can apply T1/T2 materia. \n\nT2 Materia will cost 5 currency each. Additional sources to acquire T2 Currency have been added.\n\n[NIN]\nMijin Gakure now does 1:1 damage to target based on players current HP and gives you reraise on death.\n\n[HNM]\nTier 2 Materia currency now added to NMs in sky.\nSlimes added to the following mobs in the following zones:\nThe_Shrine_of_RuAvitau/mobs/Aura_Statue.\nThe_Shrine_of_RuAvitau/mobs/Aura_Pot.\nRuAun_Gardens/mobs/Groundskeeper.\n\nKing Behemoth Meteor adjusted.\n\nDynamis Currency added to the following shops: Cerberus/Khimaira/Hydra.\n\nTier 4 HNMs turned off due to adjustments to fights.\n\nSleep resist added to all Tier 3 + HNMs.\n\n[Dynamis]\nIncreased personal loot for hundreds to 6%.\nIncreased timer on lockout to 6 days.\n\n[Missions]\nToAU mission 44 adjusted.\n\n[Mobs]\nEbony pudding adjusted to lv 90 in Mount Zhayolm.\n \n\n[MISC]\nAll Slime camps now drop cosmetics.\nSlime code adjusted and centralized.\nEnmity cap raised drastically.\nSilver Bullet now usable by COR (Server side only, last minute change that DAT is not available for)."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-02-09T09:30:00.000Z",
+    "message": "[NPCS/Warps]\nHugo Prices Reduced\n\nScowlenkos Merit Camp in Uleguerand Range added with fast travel via Hugo\n\nDomenic turned on \n(Npc that warps to BCNM Battlefields)\n\nGoblin Footprints in Lower Delkfutts Tower added\n(Teleports to Sky and Sea Camps)(Must have access prior)\n\n[HNMs]\nConfrontation buff now cleared after mob despawn not mob death\nHNMs despawn time is now 10min \n\nLuckier Charm removed from shops\n\n[MATERIA]\nT2 Materia various fixes"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-02-11T05:56:00.000Z",
+    "message": "[HNMs]\n??? not respawning fixed\nHNM shops revamped\n\n[NM]\nTonberry Kinq adjusted to a true lotto\nUggalepih Key drop rate increased\n\n[HELM]\nRemoved 5 nodes from Yhoator Jungle\nMining gear now effects excavating \n\n[Quest]\n\"Chips\" fixed\n\n[JOBS]\nDeep Breathing bug fix"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-02-11T08:35:00.000Z",
+    "message": "Continued:\n\nLevel 1 Light Crossbow and Level 1 Crossbow Bolts are now both 'All Jobs' to help level out some materia gaps for some jobs. \nCrossbow bolts already had 'all jobs' dat but it didnt match on the server side. Light Crossbow will now server side be all jobs but dat will be updated in the client to match in the future."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-02-12T05:08:00.000Z",
+    "message": "[HNMs]\nDue to the difficulty of Aspidochelone and Adamantoise other HNMs of the same tier; Both HNMs have been down graded tier in status.\nAspidochelone is now a Tier 2 HNM \nAdamantoise is now a Tier 1 HNM\nThis is to maintain the integrity and value of Tier 3 HNM shops and their level of difficulty accordingly."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-02-13T23:24:00.000Z",
+    "message": "[Abilites]\nMerit abilities cooldowns adjusted\n\n[PUP]\n2 attachments added to each Sky God; 15% Drop rate\n\noptic fiber\ndisruptor\nregulator\ncoiler\nattuner\ntarget marker\neconomizer\nequalizer\ntruesights\nrepeater"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-02-14T06:24:00.000Z",
+    "message": "[MISC]\nDynamis currency exhange readded on the following Lower Jeuno goblins:\n\nCreepstix\nStinknix\nPawkrix"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-02-19T04:05:00.000Z",
+    "message": "[WHM]\nMastery 3 available after completing 200 successful debuffs on party members or self (removing debuffs will now add TP regain to targeted player or party)\nAuspice spell added: \nCan be bought from Brave Ox \n\n[SMN]\nElemental Siphon now available\nSpring water now removes plague and adds refresh ***Update***\n\n[MISC]\nMonomi Ichi can now be seen on AH listing\nMalfud - Whitegate vendor now sells Pebbles\nRemedy now removes plague ***Update***\n\n[Weaponskills]\nVarious 65+ weaponskills adjusted\n\n[HNM]\nVarious HNM abilities now have additonal effect Plauge:\nThis is a minor counter to Moonlight spam during harder counter.\n\n[MobWeaponSKills]\nBindwave adjusted\nLevel 5 Petrify adjusted\n\n[HELM]\nLogging/Mining points relocated in the following zones:\nGusgen Mines\nHalvung\n\n[Future Plans(Subject to change)]\nContinue to update 65+ Weaponskills\nImplement Masteries up to 3rd tier\nAssault fix\nZNM Implementation"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-02-22T15:35:00.000Z",
+    "message": "[SMN]\nMastery 2 now available after using 600 Blood Pact Wards - Increases duration of x4 for all Blood Pact Wards\n\nHastega potency increased (same potency as haste spell)\nRolling Thunder potency increased\n\n[EXP CAMPS Enchanced]\nQufim Island Pond \nBibiki Bay\nCarpenter's Landing \nThe Sancutary of Zitah\nWestern Altepa Desert\nWajaom Woodlands J-9 \nWajaom Woodlands new camp \n\n[Slimes]\nSlimes added to Korroloka Tunnel\nWajaom Woodlands\n(see Slime-time channel for more details)\n\n[Misc]\nStona added to WHM mastery 3"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-02-24T05:03:00.000Z",
+    "message": "[ZNM]\nZeni Notorious Monseters are now active!\nZandjarl will convert Imperial currency into Jettons in The Colosseum. (The Pit Gate Entrance)\nFollow standard Wiki guide for more info on ZNMs."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-02-28T03:29:00.000Z",
+    "message": "[Enfeebling Magic] Some changes to enfeebling magic accuracy formulas are being worked on, please provide feedback as we try to find a balance for player accuracy & NM stat bump.\n\n[BLM]\nOccult Accumen Trait has been fixed after it was bugged for a bit sometimes functioning as a subjob.\n\n[Mobs]\nDragon Pig camp has had there HP increased. \nDragon Pig camp has has drop rates reduced on Skins and Meat."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-13T21:40:00.000Z",
+    "message": "[NIN]\nNin Mastery 3 available\n    Now after casting 600 Elemental or Enfeebling spells, Ninja Shadow behavior is enhanched. \n    Mobskills that would wipe shadows and do damage now will remove 2 shadows (Ex. Ninjas with at least 2 shadows up will no longer take damage and lose shadows from mob skill like Hurricane Wing)\n    Mob skills that would ignore shadows will remove now 2 shadows and cause no damage. (Ex. Ninja with at least 2 shadows up will no longer take damage from mobskills like heat breath but will now lose 2 shadows instead)\n    Multi-hit skills and spells will still interact with shadows the as normal\n\n[RNG]\nRanger AF Sin Hunting fixed\n\n[Quest]\nFollow quest now only requires 2 party members:\nIntro To Teamwork\nIntermediate Teamwork\nAdvanced Teamwork \n\n[Crafting]\nAll Elemental and Enfeebling Ninja tool crafts revamped.\nCrafting any era based synth will now give universal tools on completion. (Different result numbers scaled to different synths and difficulty)\n\nYellow Curry Buns craft now active\nFruit Parfait Craft now active \n\n[Bug fixes]\nCurrency exchange npc update to show trade text\n\n[Race/Face Changes]\nRace/Face Changes will no longer be active for now.\n\n[EXP Event]\nDouble Slime Event \n3/21/25 12:00A.M. - 3/24/25 11:59 P.M. (Depending on launcher release(currently beta testing))"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-03-13T23:35:00.000Z",
+    "message": "[Merit Abilities]\n\nMany merit job abilities were adjusted with todays reboots as they were not set properly and providing significantly stronger benefits then they should have.\n\nPlease let us know if any merit job abilities are now under tuned or not working properly."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-14T00:28:00.000Z",
+    "message": "[BLU]\nSneak attack/Trick attack now stack with BLU spells."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-14T02:54:00.000Z",
+    "message": "[MASTERY 2 UNLOCKS]\n[BST]\nSnarl unlocked while playing BST after using Tame\n\n[RNG]\nDouble Shot unlocked while playing RNG after using Barrage\n\n[WAR]\nRetaliation unlocked while playing WAR after using Defender\n\n!Mastery for more info"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-15T08:37:00.000Z",
+    "message": "[PUP MASTERY UNLOCK]\n\n[PUP] Elemental Capacity increase after uses Maneuvers!\n\n!Mastery for more info\n\n[Attachment fixes]\nEraser\nDisruptor\n\n[Auction House]\nReported pup attachments now can be seen on AH\n\n[Bug fixes]\nChonofuda & Inoshishinofuda tool bag fix"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-15T19:35:00.000Z",
+    "message": "[Quest]\nRSE quest (The Goblin Tailor) now repeatable"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-16T06:37:00.000Z",
+    "message": "[Chonofuda/Inoshishinofuda Synth Rates]\n\t\t\tNQ HQ  HQ2 HQ3\nUchitake -      26 36  46  99\nTsurara -       06 16  26  66\nKawahori-Ogi -  39 49  59  99\nMakibishi -     23 33  43  66\nHiraishin -     31 41  51  99\nMizu-Deppo -    34 44  54  99 \nJusatsu -       37 47  57  99\nKaginawa -      33 66  66  99\nSairui-Ran -    33 43  53  99\nKodoku -        19 29  39  66"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-16T20:01:00.000Z",
+    "message": "[Mastery]\nPUP Mastery 2 - Tactical Switch unlocked after using weaponskills.\n!Mastery for more info\n\nSAM Mastery 2 - Konzen-ittai unlocked after using weaponskills.\n!Mastery for more info\n\n[EXP Camps]\nAdjusted positioning of Erucas at merit camp\nIncreased number of beetles at Sauromugue Champaign Camp (G-8)\n\n[Slimes]\nFollow camps now have Slimes with cosemtics:\nBibiki_Bay/Jagils\nSauromugue_Champaign/Diving_Beetle\n\n[COP]\nLevel restrictions have been removed from COP content\n\n[Missions]\nLevel restrictions have been removed from 5-1\n\n[Teleports]\nSacrificial Chamber Teleport added via Domenic in Lower Jeuno (Requires sky access)\n\n[Crafting]\nKusamochi  cooking synth added\nShiromochi cooking synth added\n\n[Misc]\nDucal Guard's Ring teleports you outside of palace instead of near moghouse now\nVarious Puppetmaster attachments added to AH listing\nScroll of Monomi Ichi increased to 100% drop rate on Tonberry Kinq\nNinja tools synth results posted in patch notes above\n\n[Future plans]\n-Launcher release at some point this week for player testing and feeback. [Thanks to Judaine]\n[Masteries up to tier 3 for all jobs]\n[Pup AF Quest fix]\n[EXP Event]\n-Double Slime Event \n3/21/25 12:00A.M. - 3/24/25 11:59 P.M. (Depending on launcher release)\n-T4 HNMs rework in progress\n-Dynamis Dreamlands release\n-Rework KS99 drops tables\n-Sea rings New HNM fight for access to all 3 rings"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-03-22T17:22:00.000Z",
+    "message": "With the launcher releasing we have added level 1 slimes in the starter zones to help new players get rolling. These slimes will not give additional EXP but will give 200 gil to help start a player whether that's scrolls or starter gear. Slimes can only be spawned when killing the mobs listed below solo and when below level 10. Rewards are only recieved when killing a slime when solo and when below level 10.\n\nWest & East Ronfaure:\nTunnel Worm\nWild Rabbit\n\nNorth & South Gustaberg:\nHuge Hornet\nTunnel Worm\n\nWest & East Sarutabaruta:\nBumblebee\nTiny Mandragora"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-23T18:37:00.000Z",
+    "message": "[Slimes]\nSlimes added to Yhoator Jungle, Yhoator Bees (G-8)\n\n[PUP]\n\nAF quest now active (report any issues)\n\n[Dynamis changes Relics]\n\nBluemage added to the following weapons-\nRelic Sword \nGlyptic Sword\nDynamis Sword\nCaliburn\nExcalibur\n\nPuppetmaster added to the following weapons-\nRelic Knuckles \nMilitant Knuckles\nDynamis Knuckles\nCaestus\nSpharai\n\nCorsair added to the following weapons-\nRelic Gun \nMarksman Gun\nDynamis Gun\nFerdinand\nAnnihilator\n\n[Item changes]\n\nOverall modelid fix\nStraw Hat modelid fix\nCorsair added to Silver Bullets\nLeaping boots - Rare tag removed\nEmperor Hairpin - Rare tag removed\nSpeed Belt - Rare tag removed and all jobs added\nKraken Club - All jobs added\nPeacockcharm - Rare tag removed\n\n[Bug fix]\n\nUnstable Cluster Blaze Spikes fix\nTactical Switch fix\nshiromochi fix"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-25T05:07:00.000Z",
+    "message": "[Slimes]\nLeveling guide now available via Slimetime channel. A few cosmetics were moved around and new ones added.\nSome camps were rework to add density.\n\n[Bug Fixes]\nTactical Switch animation fix"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-03-29T14:04:00.000Z",
+    "message": "[ZNM]\nTier 1 ZNMs updated (Give feedback and report bugs)\nCheese Hoarder Gigiroon\nOb\nLil Apkallu\nVelionis\nChigre\nChamrosh\nBrass Borer\nClaret\n\n[T3/4 ZNMS]\nCurrently disabled while rework in progress.\n\n[NIN]\nInnin & Yonin added\n\n[MNK]\nChakra now removes most status effects\nMastery 3 - Chakra cooldown reduced to 60 seconds (Unlocked with Chakra uses)\n\n[DRG]\nMastery 3 - Steady Wing (Unlocked with Call Wyvern uses)\n\n[Misc]\nSlime cap candy dispense active.\n\nPotions, High Potions, X Potions now stack to 12\nMP + Juices now stack to 12\n\n[Future Plans]\nAttestation EX tag will be removed in the near future\n\n[Event]\n4/4/25 - 4/7/25\nSlimes will have a 50% chance to drop BCNM/KSNM orbs. Drops vary depending on mob level ranges.\n[Up in Arms will be shut off during this event]\n\nWill be required to get another slime cap for dispense to work or put in a ticket** (Wait time will vary)"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-03T00:10:00.000Z",
+    "message": "[T1 ZNM]\nOb's arm is now 100% drop rate\n\n[T2 ZNM]\nFollowing mobs have been updated to be more retail accurate\nWulgaru\nZareehkl the Jubilant\nLividroot Amooshah\nVerdelet\nDextrose\nReacton\nIriri Samariri\nAnantaboga\nIriz Ima\n\n[EXP]\nExp penalty removed from all mobs Even Match and above (No more penalty for syncing below 15 levels above your main)\n\n[SMN]\nElemental Siphon - elemental weakness fixed\n\n[NIN]\nMastery 3 changed to only consume 1 shadow\n\n[COR]\nBolter's Die/Roll added (Chichiroon NPC) ***\n\n[MNK]\n\nChakra mastery increased to 2 minutes due to merit conflicts\n\nBrown and Purple Belt quest now repeatable\n\n[Attestations]\nRemoved EX tag off ***\n\n[Misc]\nLight Crossbow - All jobs added ***\nInoshishinofuda & Chonofuda tools can be cast as /NIN\nYagudo Drinks now stack ***\nCrafting torques have been reduced to level 1 and now send able between accounts ***\n\n*** = after next launcher (not server) update (will require dat pushes). (Expected to be tonight,(requires a restart of client, not server))\nfor anyone not using launcher, dats will be posted in dat channel"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-05T21:55:00.000Z",
+    "message": "[T2 Materia Currency]\nT2 Materia Currency now added to the following fights to promote help across the server\n\nAll \"Sea\" Notorious Monsters\nEco - Warrior Sandoria\nEco - Warrior Bastok\nEco - Warrior Windurst \nMission 2-3\nMission 5-1\nMission 5-2 \nZM Mission 4 "
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-06T22:34:00.000Z",
+    "message": "[Fast Travel]\nAll trial fights, including Diabolos and Fenrir, are able to be warped to via the NPC that gives quest"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-07T06:33:00.000Z",
+    "message": "[Merits]\nDesperate Blow Fix\nChakra is now capped at 70 seconds with 5/5 Chakra merits\n\n[Camp]\nAvatar Camp changed to 60 second respawn"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-15T04:04:00.000Z",
+    "message": "[Synths]\nRed Curry Buns added\n\n[Speed Belts]\nAll Velocious Belts were converted into Speed Belts\n\n[WHM]\nSacrosanctity has been added as a part of WHM Mastery 3\n\n[Sacrosanctity]\n30 second duration with a 5 minute cooldown\n\n[Fixes]\nEco War T2 Materia currency reward is now on completion of quest. . .\nLower Jeuno currency goblins fixed\ncleaned up mob despawn mechanics (HNMs will no despawn after 5 minutes of being idle)\nT2 ZNM Iriz Ima healing buffed\n\n[Misc]\nSkill Chain Damage on NMs should be resisted less often due to the magic evasion buff."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-17T04:45:00.000Z",
+    "message": "[Fishing]\nFennella will now give you proper guild point items\n\n[Quest]\nA Timely Visit will now give Medieval Collar as a reward"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-19T12:58:00.000Z",
+    "message": "[DRK]\nMastery 2 rework to include Absorb TP\nMastery 3 Your next cast(s) within 5 seconds will be under the effect of Chainspell after using a weaponskill !mastery for more info\n\n[BLU]\nBlue magic hitrate acc reworked. Should notice better blue magic acc on higher level mobs \n\nBlue mage job traits will now persist on zone\n\nThe following BLU spells have been added and reduce to lv 75 (Need dats from discord or wait til next launcher update)(ROM0/118/114)\nRegeneration\nAnimating Wail\nBattery Charge\nOccultation\n\n[Limbus]\nRemoved OOE (DNC & SCH) drops \n\n[Renamer] - Following next launcher update\nKuftal Tunnel renamer clean up "
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-04-20T08:51:00.000Z",
+    "message": "[BLU]\nPhysical Blue Mage spells damage are now affected by main hand weapon damage."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-22T20:34:00.000Z",
+    "message": "[Fast Travel(Newer player guide under slime-time in discord)]\nDomenic now teleports you to Chamber of Oracles and Monarch Linn\nVenessa in Ru'Lud Gardens now teleports you to all 4 Spires"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-04-29T04:48:00.000Z",
+    "message": "[SMN]\nMastery 3 available, 20 seconds off BloodPact: Rages (!mastery for more info)\n\n[BST]\nMastery 3 available, Modified Unleash (!mastery for more info)\nUnleash - 5 minute cooldown, resets cooldown of Ready Sic and Call Beast while giving player and pet TP\n\n[BLU]\nMastery 2 available, reduced cooldown of Chain Affinity (!mastery for more info)\nOccultation MP cost reduced to 50 (dats will not reflect yet)\n\n[NIN]\nInnin - Positional removed \nInnin rework - \n+30 ACC, +30 ATT, +30 RATT\n-50 Def, -50 Eva, Emnity loss. (Does not decay over time)\n\nYonin - Positional removed \nYonin rework -  \n-50 ACC, -50 ATT, \n+ 30 MACC, + 30 MATT\n+50 Def, Emnity loss. (Does not decay over time)\n\n[Mission]\nCOP8-4 Dawn no longer requires waiting for JP midnight to continue mission after completing Promethia fight.\n\n[Domenic]\nNow teleports your right out side of Monarch Linn \n\n[Exp Camps]\nReduced spawn time to 180 sec on the following exp camps: (will reduce more camps in near future to enhance leveling phase)\nRolanberry Field Crawlers/Bees\nSauromugue Champaign Beetles\n\n[Weaponskills]\nAdjustments made to the following WS's, Mercy Stroke, Catastrophe, Blade: Ku, Ground Strike, Steel Cyclone, Savage Blade, Scourge"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-05-01T04:00:00.000Z",
+    "message": "[Mastery]\nCOR mastery 3 available (Quick draw cooldown reduction) !mastery for more info\nBLM mastery 3 available (Mana Wall) !mastery for more info\nRNG mastery 3 available (Barrage randoms 10-15 arrows/bolts or 5-10 bullets) !mastery for more info \nSAM mastery 3 available (Anticipate/Counter healing with Third Eye up) !mastery for more info \n\n[Weaponskills]\nFinal Heaven adjusted\n\n[Bug report fixes]\n\nSubjob Blu traits on zone fixed\nSMN Mastery 3 fix\nCredenza removed from Woodworking GP item\nRemoved Bastore Sweeper from Fishing GP item\nFishing GP items fix; \nShining Trout, Nosteau Herring, Veydal Wrasse, Gugru Tuna, Ogre Eel, Monke-Onke, Giant Donko, Bhefhel Marlin, Bluetail\nUleguerand Milk now shows on AH\nNorth San d'Oria Blackmail quest fix\nHydra tier 2-4 turned off until further tunning due to reports.\nBugbear mask (Leather Working) Desynth fixed to proper quantities\nKoma added to Amalasanda in Lower Jeuno\nThe Prince and the Hopper quest fix\n\n[Reported bugs that work as intended]\n\nThree Men and a Closest\nWhen the Bow Breaks\nFist of the People\nSea Horror NM spawn rate\nMeifu Goma synth working as intended \n\n[Thank you for your reports, keep them coming. If you are unsure use \"is-it-a-bug\" thread or ask general]"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-05-02T00:10:00.000Z",
+    "message": "[Event]\nKSNM/BCNM Event will be active starting Monday for a Simser-Week! \n\n[Yonin/Innin Update]\n[Only will do what is listed below nothing else]\n\nYonin - \nEnemy crit rate reduction while in front of target\nIncrease Enmity\nDEF,  50   -- Increase Defense (Helps in lower level parties pre NI)\nMACC, 30   -- Increase Magic Accuracy \nMATT, 30   -- Increase Magic Attack\n\nInnin - \nCrit rate bonus from behind target\nLower Enmity\nACC,  30   -- Increase Accuracy\nATT,  30   -- Increase Attack\nRATT, 30   -- Increase Ranged Attack"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-05-02T03:27:00.000Z",
+    "message": "[SAM]\nMastery 3 updated now heals 10% of MaxHP on cast as well as previous effects.\n\n[Updates]\nWAR THF PLD BRD PUP BLU -\nare the last jobs before all mastery 3s are done. Expect mastery 4 and 5 to be long and engaging content to unlock.\n\nBefore working on 4 and 5 will be revisiting some early masteries to tweak. Feed back appreciated\n\nT4 HNMs are almost done and should be released soon after further testing"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-05-04T09:12:00.000Z",
+    "message": "[WAR]\nMastery 3 unlocked, Defender now heals 25% MaxHP on cast !mastery for more info\n\n[THF]\nSneak Attack is no longer required to be behind mob if you are main job THF\nMastery 3 unlocked, Accomplice and Collaborator !mastery for more info\n\n[NIN]\nInnin/Yonin cooldowns reduced from 5 minutes to 10 seconds\n\n[WHM]\nCura, Sacrifice, Esuna added (Brave Ox vendor)\nAfflatus Solace & Afflatus Misery added \n \n[PLD]\nCover no longer has a positional required (Cover target does not need to be behind PLD)\nCover no longer requires the target or PLD to be in melee range \nMastery 3 unlocked, reduced Cover cooldown !mastery for more info\n \n[Explorer Moogles]\nAll items reduce to 1 each to city to city warps.\n\n[Qol]\nChurano-Shurano now sells Magicked Astrolabe Key item for The Eldieme Necropolis doors"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-05-05T14:48:00.000Z",
+    "message": "Ranged Weaponskills:\nAfter some testing last night there seemed to be an underlying issue with ranged attack PDIF formula not taking into account your base ranged attack(being attack derived from your innate skill in the weapon so missing roughly 300 ranged attack at 75) properly. This resulted in ranged WS damage being calculated off only your bonus attack from gear and effects. Ranged weaponskills should see a noticeable bump in damage.\n\nPlease report any strange ranged weaponskill behavior."
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-05-09T04:31:00.000Z",
+    "message": "[THF]\nHide issue fixed, it will no longer grant a critical hit.\nSneak attack will now give THF full damage mods regardless of position & subjob THF will not get extra damage mods but can still crit regardless of position\n\n[WHM]\nMastery3 updated \nAfter clearing 200 debuffs from players or self, Clearing debuffs from players will now grant players a TP bonus in addition Afflatus Solace now refreshes certain durations on party members(Haste, Pro/Shell, Sneak/Invisible)\n\n[BLU]\nJettatura fix able to be learned now\n\n[BST]\nUnleash fix-Resets Sic/Call Beast & grants player 1000TP and pet 3000TP\n\n[NIN]\nElemental Wheel NI scrolls increased to 5% drop rate on all mobs that are able to drop it\n\n[Synths]\nOOE GP items removed - Flanged Mace\nCartonnier added to in era synths\nMithran Fishing Rod desynth added\n\n[MISC]\nProud Beard NPC added(Galka Hume RSE)\nMagmatic Eruca EXP camp reduced to 180 second respawn time\n\n[Quote of the patch]\n\"Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.\"\nSteve Jobs\n\n\"One who cannot rejoice in the discovery of his own mistakes deserves to be called a scholar...\"\nDonald Foster"
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-05-22T04:06:00.000Z",
+    "message": "[BRD]\nMastery 3 available (Threnody does elemental damage, (damage subject to change after further evaluation)) !mastery for more info \n\n[Exp Camps]\nAdded 3 Torama to Ose Camp\nAdded 2 Werebats to Bostaunieux Oubliette slime-time-camp\n\n[COP] \nCOP Ring quest line available via Kalimahf NPC in Whitegate!\n\n[Custom commands]\nEnmity Table command !getstats 5 (Top 6 entities in mobs enmity list)\nMob ID added to getstats 1 (this will allow all players a fair understanding of lottery PHs)\n\nAll aftermath duration always 120 seconds\nMelee aftermath updated to balance the variations between jobs to players can play the job they like most.\nMNK, THF, DRK, WAR, BST, DRG, SAM, NIN all now receive the same aftermaths from the different relics they utilize. (BST to change in future probably) [5% Crit, 5 SubtleBlow II, 5% Ability Haste, 5 Store TP, 5% damage reduction] \nTachi Kaiten tuned ( See WS channel for details)\n\n[Misc/Bug Reports]\nAmalasanda shop updated with proper ichi ninja scrolls\nAfflatus Solace now only effects party members on buff refresh\nAjithaam (Lure of Wildcat Jeuno) Active - Same adjustments as previous Wildcat npcs apply\nQuest Chasing Dreams fixed\nDomenic now has Riverne A and B specific warps.\nAvatar perpetuation now floors to 0 instead of 1.\n\n[Deysnth addded]\nLizard Strap\nSpark Dagger\nHolly Pole\nBehemoth Ring\nSpiked Club "
+  },
+  {
+    "name": "Gibbz",
+    "timestamp": "2025-05-24T02:26:00.000Z",
+    "message": "[BRD Mastery update]\ndamage = CHR + Singing Skill divided by 1.5\n\nMob CHR + 80 is 1–20 or higher than player CHR then the spell will have a 50% chance to resist and do 1/2 damage \n\nMob CHR + 80 is 21 or more higher than player CHR then the spell will have a 75% chance to resist and do 1/4 damage\n\nPlayer CHR is higher than mob CHR + 80 the spell will have a 15% change to resist and do 3/4 damage"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-05-29T04:02:00.000Z",
+    "message": "Hotfix -- no reboot\n\n[BRD]\n[Dirge value requires reboots for update, -3 each for now]\nAdventurer's Dirge enabled. Provides -5 Enmity per merit.\nFoe Sirvente enabled. Provides +5 Enmity per merit.\n\n[BLU]\nTrick Attack now works with physical Blue Magic.\n\n[SMN]\nBlood Pacts now provide the player with 25% of the TP the avatar had when BP was used.\n\n[Mobs]\nHeavy Stomp multi-hit dmg corrected.\nKing Vinergarroon window no longer closes/resets on despawn unless he actually dies.\n\n[Misc]\n!getstats 5 now shows players current Enmity mod (+/-)."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-05-31T20:44:00.000Z",
+    "message": "After server reboot:\n\n[1 Handers]\n1 Hander benefit from the attack stat will now be the same as 2 handers to start leveling the playing field.\nPlease provide feedback if 1 hander performance is too high.\n\n[SAM]\nSimilar to Sneak Attack change, Overwhelm will no longer have a directional requirement.\n\n[BRD]\nDirge and Sirvente will interact with Ghorn bonus skill now.\n\n[Mobs]\nChlevnik should no longer be sleepable."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-06-05T15:45:00.000Z",
+    "message": "Many Weaponskills have been tuned.\nBlade: Jin\nBlade: Ten\nBlade: Ku\n\nCalamity\nMinstral Axe\nDecimation\n\nDancing Edge\nShark Bite\nEvisceration\n\nGuillotine\nCross Reaper\nSpiral Hell\n\nHowling Fist\nDragon Kick\n\nSkewer\nWheeling Thrust\nImpulse Drive\n\nTachi: Yukikaze\n\nKnights of The Round(BLU)\n\nWill post specifics when I can."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-06-28T19:49:00.000Z",
+    "message": "Jormungand is now available as a T4 forced pop in Uleguerand Range.\nThe fight includes customizations, higher difficulty and new mechanics to enjoy.\n\nThis will be a \"play and find out\" situation for the players to enjoy figuring something new out. There is 1 core mechanic added for players to overcome to succeed.\n\nThe tuning is very high compared to any other content currently in the game so LS's may wish to ping a staff member to watch or record the fight for the first spawns so we can see how the difficulty is playing out.\n\nHis shop is currently EMPtY but you can begin earning your points if you manage to defeat him."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-07-23T01:30:00.000Z",
+    "message": "Small patch.\n\nBy popular demand Double Slimes will remain on until otherwise stated for the Summer.\n\nMjollnir Aftermath for WHM changed:\nRefresh: 5, ACC: 50, NA Spells AOE.\n\nExcalibur Aftermath for BLU changed:\nRefresh: 5, AbilityHaste: 15%, Regain: 30"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-07-26T15:15:00.000Z",
+    "message": "Mjollnir Aftermath for WHM adjusted:\nRefresh: 5, ACC: 50, NA Spells AOE. ADDED: Attack Percent Bonus: 20.\n\nExcalibur Aftermath for PLD changed:\nRefresh: 5, Regen: 5, ACC:  50, DMG%: 5, Attack Percent Bonus: 20."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-08-01T01:25:00.000Z",
+    "message": "Jormungand's shop is now accessible."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-08-01T03:22:00.000Z",
+    "message": "Joachim is now active in Port Jeuno to assist in acquiring Empyrean weapons."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-09-02T14:29:00.000Z",
+    "message": "[Corsair]\nPhantom roll base cooldown now 40 seconds, down from 60,\nRecycle trait now available at level  35/65/75.\n\n[Blue Mage]\nSneak attack directional requirement on blue magic removed.\n\n[Dark Knight]\nMastery 3 should now function properly with elemental weaponskills.\n\n[Onslaught]\nFTP: 2.0, 2.5, 3.0\nStat Mods: STR 1.0\nAttack Mod: 2.0, 2.0, 2.0\n\n[Mobs]\nIce elementals near Jormungand should no longer spawn at all."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-09-15T03:11:00.000Z",
+    "message": "[NIN]\nInnin enmity bugs fixed.\n\n[Jormungand]\nNo longer sleepable with light shot.\n\n[Balgas Dias]\nServer message on zone to assist with frozen BCNM menus.\n\n[Sea]\nQuasi doors should now be usable from both sides if you have completed the Dawn mission too allow easier navigation.\nMajor changes to AV and JOL.\n\n[BLU]\nDiffusion effect adjusted -- Should be stronger now.\n\n[Crafting]\nError with renouncing a craft fixed."
+  },
+  {
+    "name": "Mikey",
+    "timestamp": "2025-10-23T16:17:00.000Z",
+    "message": "[BST]\n- Beast affinity now effectively uncaps every HQ jug 20% at a time.  I.E. 1 point in beast affinity on a HQ jug capped at 55 would make it level 59. 5/5 = 75\n- Jug debuffs are no longer considered elemental in the magic accuracy calculation.  The Bst's charisma is now used instead of pets int as a modifier to pet macc in addition to pet:macc.\n- Pet buffs now effect both the pet and the master. buffs that effect both the pet & beastmaster:\n    Bubble Curtain\n    Metallic Body\n    Rage\n    Rhino Gaurd\n    Scissor Gaurd\n    Secretion\n\n[DRG]\nWyvern is summoned before a spirit link with 1 HP if its not alive.  It is then healed by the spirit link.  \n\n[THF]\nTA should be a little less fussy in terms of positioning. Please give feedback on this. \n\n[Weapon Skill Changes]\nCor and RNG aftermaths on relics have been updated.\n - Crit Hit rate 5%\n - Racc +20\n - Snapshot 5%\n - Enmity -20\n - Haste 5%\n\nPets also *should* have the effects of gained aftermaths.\n \n[Magic]\nPlayer character spikes damage has been doubled.\n \n[Battlefields]\nGunpods no longer drop SCH & DNC items.\n\n[Combat]\nShield/Gaurd/Parry radius has been widened to make mass pulling of mobs easier. Please give feedback on this.\n\n[HNM]\nYoichi's Sash is now available on T3 HNMS shops\n\n[KS99]\nLoot tables have been adjusted to account for missing ENMS + Koga Shuriken.  Each ks99 has a different loot pool.\n\n[NMs]\nAbsolute Virtue is now working.  His lockout timer is now 9s. Good luck\n\n[Crafting]\nKhromated leather is now craftable\nPot-au-feu is now craftable\n\n[Bug fixes]\nAncient Lockbox should now work in leujaoam sanctum"
+  },
+  {
+    "name": "Mikey",
+    "timestamp": "2025-10-24T14:59:00.000Z",
+    "message": "[BST]\npet buff issues should now be resolved and properly effect the player.\n\n[Bug fixes]\nFailsafe added for too much damage happening on Horns of War KS99.\nlance corperal quest should trigger properly\n\n[Known issues]\nLullaby Melodia is not scaling with the new merit change.\nSome of the math on the pet scaling due to new merit change is slightly off due to a rounding error."
+  },
+  {
+    "name": "Mikey",
+    "timestamp": "2025-10-31T20:01:00.000Z",
+    "message": "[BST]\nLullaby Melodia is now scaling with the new merit change.\nPet Scaling should be resolved with merits due to rounding error.\n\n[QOL]\nAltepa Gate now opens from the front if your nation rank is 6 or higher.\n\n[DRK]\nMuted Soul should work properly\n\n[SMN]\nSpirit Perpetuation has been significantly lowered.\n\n[Damage Immunities]\nBard threnodys & Blue magic are now properly effected by damage resistances & buffs\n\n[End Game]\nTiamat is now live.  Good luck.  Please coordinate with me so I can make sure fight is working properly.  Have fun.\n\nWyrm horn drop rate has been standardized to 10% on all T4 HNM\n\nT4 HNM loot tables have been enhanced.  Papers have been added to T4 Hnms.\n\n[Events]\nBCNM/KSNM Orb event is now live for the next 2-3 weeks.\n\nImage"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-03T00:12:00.000Z",
+    "message": "Kantila in Aht Urghan White Gate at the assault counter will now allow you to convert ISP into Assault Points at a 2:1 ratio. (ie: 40,000 ISP gets you a 20,000 assault piece)\n\nTalk to the NPC and navigate the menu to acquire your Assault Points for the area of your choosing."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-04T18:34:00.000Z",
+    "message": "Occult Acumen now applies to AOE spells again.\nOccult Acumen also now applies to Divine Magic, Blue Magic, and Healing Magic(only when damaging, might change in the future for healing to provide healers TP). "
+  },
+  {
+    "name": "Mikey",
+    "timestamp": "2025-11-08T03:33:00.000Z",
+    "message": "Tiamat re-enabled. "
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-11T15:58:00.000Z",
+    "message": "[Conquest]\nAnyone from any nation should be able to buy any gear at the embassy regardless of nation standing that week. \nItems should no longer cost double conquest points when buying another nations gear.\nAll gear should be available regardless of the nations standing. (Items that require 1st place should always be available)\n\n[BLU]\nVertical Cleave multiplier reduced (effects Azure/Chain Affinity). DMG with Az/CA should roughly be half of what it was.\nPDIF calculation corrected as it was previously ignoring level difference.\n\n[COR]\nPhantom Rolls should now be 40s cooldown. For real this time.\nDouble up duration reverted back to 45 seconds.\n\n[WS's]\nBlade: Hi, removed crit chance so damage will be more consistant. \nTachi: Fudo, FTP for 2k and 3k reduced (Was 3.75, 4.75, 5.75; Is now 3.75, 4.0, 4.5)\nHexa Strike, updated to similiar as other lvl 65 skills~, FTP reduced from 1.0 to 0.8, Stat mod adjusted from .3 MND .3 STR to 1.0 MND, attack mod adjusted from 1.0 to 1.5.\n\n[Auras]\nAura code reworked to be less taxing on the server/client as it was causing a lot of lag.\n\n[Shinys/Slimes]\nBibiki Bay Ravens will once again be able to spawn as Slimes."
+  },
+  {
+    "name": "Mikey",
+    "timestamp": "2025-11-15T06:16:00.000Z",
+    "message": "[Endgame]\nVrtra is enabled.  All Empyrean Weapons are now available.\nlet one of the devs know if you are going to attempt vrtra while you beta test :)"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-15T02:21:00.000Z",
+    "message": "Geomancer is now unlockable. Talk to Sylvie in Lower Jeuno near the Auction House for unlocking, AFs and majority of your spells.\n\nThe unlock and AF quests are all pretty light weight.\n\nUnlock quest is available at lvl 30 like all other jobs.\n\nDAT modifications will be required for all the AF, many spells, merits, etc. Will post a zipped updated version of all the dat changes required.\n\nGeomancy spells are all tuned down for needing 600 skill instead of 900 skill for max potency. This is not currently obtainable in the game but will as more gear is added.\nCurrently you will cap at 450 Base + 60 from merits + 20 from current gear == 530/600.\n\nOther notable changes:\nFull Circle no longer despawns your Luopan. It will now move the Luopan to the player to assist in roaming parties and mana-management. Full circle also grants 125 TP each use, similiar to SMN solution to gather TP to maintain aftermaths as we move forward.\nTo not remove the ability to get rid of your Luopan it can be despawned simply by summoning another one.\nLuopan will be despawned when receiving a level sync effect.\n\nGEO has been added to the Relic Club tree and the Empy Club. Neither have had aftermaths crafted for GEO yet.\n\nGEO spells from the unavilable zones have been moved to the current world.\n4 Have been moved to Ru'Aun gardens. 1 near each god spawn.\n1 to Dragons Aery. Near Fafnir/Nidhog.\n1 to Behemoths Dominion. Near Behe/KB.\n\nWhile alot of work and play testing went into this, I did also want to get it out ASAP so please provide any feedback and quirkiness.\nI caught alot of bugs, performance issues and some quality of life ideas from playing it the past 2 weeks but I am sure there is plenty else to do.\n\nHaste was nerfed from the base 29.9% ceiling to 20.0% for now and will watch all the spells for needed tweaking."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-15T02:41:00.000Z",
+    "message": "Forgot to mention masteries:\nMastery 1-3 are currently active, mastery command not updated.\nMastery 1: Use 100 Indi spells and gain 2x Duration and 2x Range for your INDI spells.\nMastery 2: Use 100 Geo spells and gain 2x Range and a 50% Reduction in the Luopans native HP down effect.\nMastery 3: Use 100 entrusts and cooldown reduced to 6 minutes. (Matches INDI duration for permanent 3 buffs.)"
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-16T03:14:00.000Z",
+    "message": "Ranged Acc added to Indi & Geo Precision as it was missing.\nRanged Attack added to Indi & Geo Fury as it was missing."
+  }
+]
