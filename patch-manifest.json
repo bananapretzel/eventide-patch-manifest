@@ -5,15 +5,15 @@
       "from": "1.0.0",
       "to": "1.0.1",
       "fullUrl": "https://github.com/bananapretzel/eventide-patch-manifest/releases/download/v1.0.1/1.0.1.zip",
-      "sha256": "4e3a4ba1d551f0a823f4f26b3baddfa89825580a9ba736f9d6a343f8a5e4020c",
-      "sizeBytes": 40628541
+      "sha256": "81742acdaecac7ca8344393d54ab220aaf53172179afb658e6fd9b1ea03d8817",
+      "sizeBytes": 40636581
     },
     {
       "from": "1.0.1",
       "to": "1.0.2",
       "fullUrl": "https://github.com/bananapretzel/eventide-patch-manifest/releases/download/v1.0.2/1.0.2.zip",
-      "sha256": "98ae11aa2d1feae474e60dc039f65c6cdc7b7c33d91dbf9aa65f4fdad81a7adc",
-      "sizeBytes": 9675725
+      "sha256": "eebc4217414b2807c5ec82805ab47b6aa9fd61e329ae6f576d097eff31542f72",
+      "sizeBytes": 9676765
     }
   ]
 }
