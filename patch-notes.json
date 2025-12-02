@@ -428,5 +428,30 @@
     "name": "Simseru",
     "timestamp": "2025-11-16T03:14:00.000Z",
     "message": "Ranged Acc added to Indi & Geo Precision as it was missing.\nRanged Attack added to Indi & Geo Fury as it was missing."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-28T02:52:00.000Z",
+    "message": "Relic weapon skills have all increased in power. \n\n1H FTP: Is now 3.75 // 4.25 // 4.5\n2H FTP: Is now 2.75 // 3.25 // 3.5\n\nThe extra FTP on 1H should help close the gap that 1H's lag behind due to the large difference in base weapon damage. This may need to be altered depending on how it plays out. Please provide feedback on how 1h relics are performing against 2h relics.\n\nThere should be no scenario where TP Bonus weapons using non-relic WS's out perform Relic WS's.\n\nNamas Arrow and Coronarch remain unchanged for now while I think about what to do.\n\nWSNM weapon skills will all be dialed back tomorrow to ensure the power growth is linear from WSNM >> Relic >> Empy. \n\nEmpy's will all be adjusted in the near future to ensure power growth from the Relics in a similar fashion."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-28T18:21:00.000Z",
+    "message": "Yells should function properly in all zones finally."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-29T09:17:00.000Z",
+    "message": "GEO Aura's should now properly be lost on death and not persist from the dead players body or after raise."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-30T06:03:00.000Z",
+    "message": "Some avatar changes are now live. This should affect not only player avatar pets but probably also the avatar prime mobs and anything else that uses the same abilities.\n\nThe preparation time for blood pacts to execute has been reduced from 3 seconds to .5 seconds. This means when a summoner hit a blood pact the blood pact would go on cooldown, cost mana and then 3 seconds later the ability would complete. This causes some challenges with how fast paced merit parties are as well as just annoyances that other classes don't have to face. \n\nWhen you Hastega with garuda you shouldn't have to watch people walk away while she charges for 3 seconds and  they walk out of haste range anymore.\n\n\nGEO magic bursts with -ara spells should now show the correct magic burst messages."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-11-30T16:54:00.000Z",
+    "message": "1Handed Multi Hit WSNM Weapon Skills have been adjusted down in power.\nOverall FTP mods are now 2.5 // 2.75 // 3.0 \n\nThis applies to:\nEvisceration\nBlack Halo\nDecimation\nAsuran Fists (with the FTP adjustment to balance the 7 hit nature of this, the STR mod has been adjusted up to 1.0 like the other WS's of this tier.)\nBlade: Ku (this currently remains STR .5 and DEX .5 but the stat split likely hurts the WS over all as well as deviates from Metsu and Hi, will likely migrate to STR 1.0 for uniformity in gearing)\nSavage Blade\n\nSomething similar will also happen to the multi-hit weapon skills that were previously buffed for the lvl 60 and 65 weapon skills."
   }
 ]
