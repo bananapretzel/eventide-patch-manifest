@@ -453,5 +453,30 @@
     "name": "Simseru",
     "timestamp": "2025-11-30T16:54:00.000Z",
     "message": "1Handed Multi Hit WSNM Weapon Skills have been adjusted down in power.\nOverall FTP mods are now 2.5 // 2.75 // 3.0 \n\nThis applies to:\nEvisceration\nBlack Halo\nDecimation\nAsuran Fists (with the FTP adjustment to balance the 7 hit nature of this, the STR mod has been adjusted up to 1.0 like the other WS's of this tier.)\nBlade: Ku (this currently remains STR .5 and DEX .5 but the stat split likely hurts the WS over all as well as deviates from Metsu and Hi, will likely migrate to STR 1.0 for uniformity in gearing)\nSavage Blade\n\nSomething similar will also happen to the multi-hit weapon skills that were previously buffed for the lvl 60 and 65 weapon skills."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-01T21:14:00.000Z",
+    "message": "Geomancer base TP gain from Full Circle has been reduced from 125 to 25 as it seemed way too strong/reliable while leveling. \n\nFull Circle Effect merit now grants an additional 20 TP return when using full circle per point to get back to the 125 value while at 75 after being fully merited."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-03T21:11:00.000Z",
+    "message": "Coronarch aftermath now procs even if it misses or does 0 damage.\n\nGEO merit Mending Halation now functions."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-04T07:20:00.000Z",
+    "message": "Empyrean weapon aftermath proc rate should now be correct / much higher."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-05T06:33:00.000Z",
+    "message": "Amaltheia will now drop a Relic Shield upon death to return the Relic Shield used to spawn her."
+  },
+  {
+    "name": "Mikey",
+    "timestamp": "2025-12-06T15:46:00.000Z",
+    "message": "Mobskill update:\n- Charm now has a maximum charm time of 60s rather than 150.\nVrtra updates:\n- Base stats have been balanced.  \n- Base mechanics are slightly slowed down.\n- Removed CHR & MACC bonus on his charm. \n- Ghosts now will spawn in static positions to make spotting them more clear.  "
   }
 ]
