@@ -478,5 +478,15 @@
     "name": "Mikey",
     "timestamp": "2025-12-06T15:46:00.000Z",
     "message": "Mobskill update:\n- Charm now has a maximum charm time of 60s rather than 150.\nVrtra updates:\n- Base stats have been balanced.  \n- Base mechanics are slightly slowed down.\n- Removed CHR & MACC bonus on his charm. \n- Ghosts now will spawn in static positions to make spotting them more clear.  "
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-11T02:57:00.000Z",
+    "message": "12/10/25\nGetting hung on black screen when zoning should no longer occur."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-13T04:43:00.000Z",
+    "message": "12/12/25\n[General]\nHELM rates increased from 50% to 75%\nGuard, Parry, Shield no longer require the event to occur to get skills ups. Skill to mob level requirements remain unaltered.\nAdded Vrtra moldy weapons to Joachim's scripting to be able to be traded.\nEnsured all moldy items are non tradable and non vendorable on server side.\n\n[Warrior]\nProvoke cooldown reduced to 15. Enmity increased 3x.\n\n[Beastmaster]\nFight cooldown reduced from 10 seconds to 3 seconds.\n\n[Summoner]\nShiva should now correctly be affected by SMN mastery."
   }
 ]
