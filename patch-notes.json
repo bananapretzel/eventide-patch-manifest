@@ -481,12 +481,22 @@
   },
   {
     "name": "Simseru",
-    "timestamp": "2025-12-11T02:57:00.000Z",
-    "message": "12/10/25\nGetting hung on black screen when zoning should no longer occur."
+    "timestamp": "2025-12-10T14:57:00.000Z",
+    "message": "Getting hung on black screen when zoning should no longer occur."
   },
   {
     "name": "Simseru",
-    "timestamp": "2025-12-13T04:43:00.000Z",
-    "message": "12/12/25\n[General]\nHELM rates increased from 50% to 75%\nGuard, Parry, Shield no longer require the event to occur to get skills ups. Skill to mob level requirements remain unaltered.\nAdded Vrtra moldy weapons to Joachim's scripting to be able to be traded.\nEnsured all moldy items are non tradable and non vendorable on server side.\n\n[Warrior]\nProvoke cooldown reduced to 15. Enmity increased 3x.\n\n[Beastmaster]\nFight cooldown reduced from 10 seconds to 3 seconds.\n\n[Summoner]\nShiva should now correctly be affected by SMN mastery."
+    "timestamp": "2025-12-12T16:43:00.000Z",
+    "message": "[General]\nHELM rates increased from 50% to 75%\nGuard, Parry, Shield no longer require the event to occur to get skills ups. Skill to mob level requirements remain unaltered.\nAdded Vrtra moldy weapons to Joachim's scripting to be able to be traded.\nEnsured all moldy items are non tradable and non vendorable on server side.\n\n[Warrior]\nProvoke cooldown reduced to 15. Enmity increased 3x.\n\n[Beastmaster]\nFight cooldown reduced from 10 seconds to 3 seconds.\n\n[Summoner]\nShiva should now correctly be affected by SMN mastery."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-14T01:35:00.000Z",
+    "message": "All shiny type mobs are now a 3m respawn."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-14T03:25:00.000Z",
+    "message": "[System Changes]\n{Sparks}\nSparks of Eminence NPCs in Bastok, Sandoria and Windurst are now active.\n\nWarp/Reraise items are purchasable.\nSkill Up tomes are purchasable.\nEquipment from 1-70 is purchasable.\nEquipment from 71+ will not be purchasable.\nAMAN exchanges will not be purchasable.\n\nIf you attempt to purchase an item that is not available you will currently not get a failure message or anything, it just won't work.\n\nSparks will now be awarded from shiny/slime mob kills.\nSpark calculation will be (200 - ( 2 * player level)).\nExamples: \nKilling a slime at level 15 will award 170 sparks.\nKilling a shiny at level 75 will award 50 sparks.\n\nThis will reward lower level parties at a higher rate to allow newer players access to buy sparks equipment.\nPlease provide feedback on the spark acquisition rates and current equipment that is accessible.\n\n{Shinys/Slimes}\n[NOT THE STARTER SLIMES]\nShiny/Slime mob types at Crawler's Nest and lower will now have an EXP buff that will soften the EXP reduction per kill as players level allowing these camps to retain there EXP/hour longer.\n** This change will be active the next time that mob respawns, so right now the first death will not have the bonus exp as I am not going to reboot the server again. Going forward, After they have all died or server reboots this will not be the case.\nShiny/Slime mob types at Crawler's Nest and lower will have their respawns set to 3 minutes.\n\nThese changes should help lower level parties be more consistent.\n\n--\nWith these changes new players should be able to maintain some baseline equipment while they progress but the NM and many crafted gear will still be ideal while leveling.\nLower level sync parties should now have less friction from higher players to syncing down."
   }
 ]
