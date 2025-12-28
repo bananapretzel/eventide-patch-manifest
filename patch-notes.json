@@ -513,5 +513,25 @@
     "name": "Simseru",
     "timestamp": "2025-12-22T05:19:00.000Z",
     "message": "Afflatus Solace will now grant the WHM 25% of the amount cured as TP in addtion to the current stoneskin effect. (this includes overhealing)\nThis will be subject to % tweaking to find a healthy rate."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-26T05:03:00.000Z",
+    "message": "With the feedback provided the EXP bonus percentage on the Crawler's Nest and lower Shiny mobs has been reduced. The goal is for these levels to be better than they originally were and more desirable but not 2-3x the exp rate of the parties when you get to 40+ camps. The EXP sub 40 should still be very good, but not so much better than the other ranges. \n\nPlease continue to provide feedback while we pinpoint the desired outcome."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-26T06:16:00.000Z",
+    "message": "[Dynamis]\nPreviously NM mobs that were eligible for T2 Materia currency were not eligible for Dynamis Personal Loot Currency drops. This has been adjusted so zones with high counts of NM's that awarded T2 Materia Currency will no longer suffer a tremendous loss in dynamis currency drops and are now eligible for dynamis currency drops in addition to T2 Materia Currency."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-27T00:19:00.000Z",
+    "message": "Battlefield buff will no longer inhibit EXP gain from killing mobs. (Mostly relevant to dynamis)\nEXP nerf for Level Syncing on EP/DC mobs is no longer applied.\n\n[Ranger]\nRecycle trait should now work properly.\n\n[Corsair]\nRecycle trait should now work properly."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2025-12-26T19:21:00.000Z",
+    "message": "[Auction House]\nAuction listings are now 21 days instead of 7 days."
   }
 ]
