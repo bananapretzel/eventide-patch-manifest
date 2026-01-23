@@ -536,7 +536,7 @@
   },
   {
     "name": "Simseru",
-    "timestamp": "2026-1-23T17:30:00.000Z",
+    "timestamp": "2026-01-23T17:30:00.000Z",
     "message": "[WHM]\nAfflatus Solace now also refreshs Regen effects. \n[Items]\nCrafted Potions/Ethers/Elixirs now stack to 12.\nSky pop items are no longer Rare and stack to 12.\n[Relics]\nDNC added to Mandau.\nSCH added to Claustrum.\nRUN added to Ragnarok."
   }
 ]
