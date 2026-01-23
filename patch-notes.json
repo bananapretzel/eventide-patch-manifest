@@ -533,5 +533,10 @@
     "name": "Simseru",
     "timestamp": "2025-12-26T19:21:00.000Z",
     "message": "[Auction House]\nAuction listings are now 21 days instead of 7 days."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-1-23T17:30:00.000Z",
+    "message": "[WHM]\nAfflatus Solace now also refreshs Regen effects. \n[Items]\nCrafted Potions/Ethers/Elixirs now stack to 12.\nSky pop items are no longer Rare and stack to 12.\n[Relics]\nDNC added to Mandau.\nSCH added to Claustrum.\nRUN added to Ragnarok."
   }
 ]
