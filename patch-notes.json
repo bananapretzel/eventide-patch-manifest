@@ -538,5 +538,10 @@
     "name": "Simseru",
     "timestamp": "2026-01-23T17:30:00.000Z",
     "message": "[WHM]\nAfflatus Solace now also refreshs Regen effects. \n[Items]\nCrafted Potions/Ethers/Elixirs now stack to 12.\nSky pop items are no longer Rare and stack to 12.\n[Relics]\nDNC added to Mandau.\nSCH added to Claustrum.\nRUN added to Ragnarok."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-01-24T17:30:00.000Z",
+    "message": "Dancer and Scholar are now both able to be unlocked.\nAF weapons and AF armor quests have not been implemented yet but people can start playing the jobs and providing feedback. \nQuests to unlock are basically the same as WOTG just in the regular zones instead of the Shadowreign zones.\nGeomancer was fully leveled, play tested and tweaked by myself before I turned it on for everyone which is not the case for DNC and SCH. I am hoping they are better balanced as they were already 75 era jobs and things should for the most part work and be OK. \nPlease let me know of any issues you come across while leveling."
   }
 ]
