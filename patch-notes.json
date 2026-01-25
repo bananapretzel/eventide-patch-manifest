@@ -543,5 +543,10 @@
     "name": "Simseru",
     "timestamp": "2026-01-24T17:30:00.000Z",
     "message": "Dancer and Scholar are now both able to be unlocked.\nAF weapons and AF armor quests have not been implemented yet but people can start playing the jobs and providing feedback. \nQuests to unlock are basically the same as WOTG just in the regular zones instead of the Shadowreign zones.\nGeomancer was fully leveled, play tested and tweaked by myself before I turned it on for everyone which is not the case for DNC and SCH. I am hoping they are better balanced as they were already 75 era jobs and things should for the most part work and be OK. \nPlease let me know of any issues you come across while leveling."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-01-25T15:30:00.000Z",
+    "message": "[Dancer]\nDrain Samba formula updated. \nBasically it was kind of like each Drain Samba was using the next tier's potency due to a missing () in the math.\nWe will do this first and see how it feels in game to see if further adjustments are needed. \n\n[Dynamis]\nWhat was the TOAU drop group for equipment is now the secondary drop group for equipment. \n Dancer, Scholar, Geomancer, and Runefencer relics have been added to the secondary equipment drop group.\n [Dynamis-Bastok] Scholar Legs, Dancer Helm, Runefencer Feet. \n [Dynamis-Jeuno] Dancer Feet, Geomancer Legs, Runefencer Hands.\n [Dynamis-Sandoria] Scholar Hands, Geomancer Feet, Runefencer Legs.\n [Dynamis-Windurst] Scholar Feet, Dancer Hands, Geomancer Hands.\n [Dynamis-Beaucedine] Scholar Body, Dancer Legs, Runefencer Body, Geomancer Helm. \n [Dynamis-Xarcabard] Scholar Head, Dancer Body, Geomancer Body, Runefencer Head.\n Please note while GEO and RUN have been added they are currently just the level 99 versions. They will get updated in the future but people can start acquiring these are placeholder gear until then."
   }
 ]
