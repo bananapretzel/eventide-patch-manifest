@@ -548,5 +548,10 @@
     "name": "Simseru",
     "timestamp": "2026-01-25T15:30:00.000Z",
     "message": "[Dancer]\nDrain Samba formula updated. \nBasically it was kind of like each Drain Samba was using the next tier's potency due to a missing () in the math.\nWe will do this first and see how it feels in game to see if further adjustments are needed. \n\n[Dynamis]\nWhat was the TOAU drop group for equipment is now the secondary drop group for equipment. \n Dancer, Scholar, Geomancer, and Runefencer relics have been added to the secondary equipment drop group.\n [Dynamis-Bastok] Scholar Legs, Dancer Helm, Runefencer Feet. \n [Dynamis-Jeuno] Dancer Feet, Geomancer Legs, Runefencer Hands.\n [Dynamis-Sandoria] Scholar Hands, Geomancer Feet, Runefencer Legs.\n [Dynamis-Windurst] Scholar Feet, Dancer Hands, Geomancer Hands.\n [Dynamis-Beaucedine] Scholar Body, Dancer Legs, Runefencer Body, Geomancer Helm. \n [Dynamis-Xarcabard] Scholar Head, Dancer Body, Geomancer Body, Runefencer Head.\n Please note while GEO and RUN have been added they are currently just the level 99 versions. They will get updated in the future but people can start acquiring these are placeholder gear until then."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-01-26T15:30:00.000Z",
+    "message": "[Scholar]\nFixed multiple issues with Accension conflicting with WHM Mastery 2.\n Storms will no longer persist through level syncing effects.\n\n[Dancer]\n Animated Flourish now costs 1 Finishing Move, has a 15 second cooldown and generates 3000 Enmity.\n Samba effects will no longer persist through level syncing effects.\n\n [Misc] Mobs that die unclaimed to non-direct damage will now assess the owner and distribute rewards to the highest enmity player on their list. Previously in this situation no exp or drops would generate.\nIE, dotting mobs with Dia and Poison and going to next mob."
   }
 ]
