@@ -553,5 +553,20 @@
     "name": "Simseru",
     "timestamp": "2026-01-26T15:30:00.000Z",
     "message": "[Scholar]\nFixed multiple issues with Accension conflicting with WHM Mastery 2.\n Storms will no longer persist through level syncing effects.\n\n[Dancer]\n Animated Flourish now costs 1 Finishing Move, has a 15 second cooldown and generates 3000 Enmity.\n Samba effects will no longer persist through level syncing effects.\n\n [Misc] Mobs that die unclaimed to non-direct damage will now assess the owner and distribute rewards to the highest enmity player on their list. Previously in this situation no exp or drops would generate.\nIE, dotting mobs with Dia and Poison and going to next mob."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-01-29T02:12:00.000Z",
+    "message": "1/28/2026\nThe following shiny mobs will no longer award EXP to players that are level 69 or lower.\nBibiki Bay: Ghost Crab\nUleguerand Range: Scowlenkos\nMisareaux Coast: Avatar Spirit \nMount Zhayolm: Scoriaceous Eruca\nRuAun Gardens: Groundskeeper\nThe Shrine of RuAvitau: Aura Statue, Aura Pot\n\nThe process of boosting low level jobs via the shiny EXP at these camps inhibits lower level parties from forming and creates a overall worse player experience on the server. "
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-01-29T14:52:00.000Z",
+    "message": "1/29/2026\nDivine Seal Mastery 2 fixed.\nSky Season-Stone's fixed and stacking properly."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-02-06T22:42:00.000Z",
+    "message": "2/6/2026\nScholar Mastery 2 is now live. (Mastery 1 is still a work-in-progress)\nTask: Deal 5000 damage with single-target elemental nukes that match the Helix spell element on the target.(Light/Dark Helix count as all 6 elements)\nEffect: When casting a single-target elemental nuke that matches the helix element on the target the helix effect will explode causing your nuke to deal bonus damage in line with the remaining DoT damage the helix would have dealt and removes the helix effect from the target. \n\nBonus damage cap for each tier(this is to prevent helix > T1 > helix > T1 from being the best):\nT1: 250\nT2: 500\nT3: 750\nT4: 1250\n\nMechanic will allow SCH to be a viable DD for end game while retaining a unique play style and not be a second black mage. \n\nValues subject to change for needed balance."
   }
 ]
