@@ -568,5 +568,15 @@
     "name": "Simseru",
     "timestamp": "2026-02-06T22:42:00.000Z",
     "message": "2/6/2026\nScholar Mastery 2 is now live. (Mastery 1 is still a work-in-progress)\nTask: Deal 5000 damage with single-target elemental nukes that match the Helix spell element on the target.(Light/Dark Helix count as all 6 elements)\nEffect: When casting a single-target elemental nuke that matches the helix element on the target the helix effect will explode causing your nuke to deal bonus damage in line with the remaining DoT damage the helix would have dealt and removes the helix effect from the target. \n\nBonus damage cap for each tier(this is to prevent helix > T1 > helix > T1 from being the best):\nT1: 250\nT2: 500\nT3: 750\nT4: 1250\n\nMechanic will allow SCH to be a viable DD for end game while retaining a unique play style and not be a second black mage. \n\nValues subject to change for needed balance."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-02-22T12:30:00.000Z",
+    "message": "Shiny rates for exp mobs 40-70 ~ increased from 10% to 20%.\nShiny rates for exp mobs 70-80 ~ increased 16% to 30%.\n\nMerit mobs, sky shinys and other 80+ mobs remain at 16%.\n\nLets see how this assists with helping higher level exp parties feel better."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-02-23T11:53:00.000Z",
+    "message": "If you are a Rank 9 Smither you can now trade Teteroon in Aht Urghan Whitegate 36 Adaman Ore and 12 Iron Ore to receive 12 Adaman Ingots."
   }
 ]
