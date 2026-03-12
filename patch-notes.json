@@ -578,5 +578,15 @@
     "name": "Simseru",
     "timestamp": "2026-02-23T11:53:00.000Z",
     "message": "If you are a Rank 9 Smither you can now trade Teteroon in Aht Urghan Whitegate 36 Adaman Ore and 12 Iron Ore to receive 12 Adaman Ingots."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-03-11T00:41:00.000Z",
+    "message": "Slime Points shop is in Ru'Lude next to T2 Materia vendor.\n\nT2 Materia vendor also updated for name and model."
+  },
+  {
+    "name": "Mikey",
+    "timestamp": "2026-03-11T01:55:00.000Z",
+    "message": "*Known Bug*\nAbsolute virtue's locking mechanism does not work on benediction.\nAll others should still be lockable.  unsure on eta on fix as we need a full build but its in the pipe."
   }
 ]
