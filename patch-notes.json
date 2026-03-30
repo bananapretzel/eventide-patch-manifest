@@ -588,5 +588,35 @@
     "name": "Mikey",
     "timestamp": "2026-03-11T01:55:00.000Z",
     "message": "*Known Bug*\nAbsolute virtue's locking mechanism does not work on benediction.\nAll others should still be lockable.  unsure on eta on fix as we need a full build but its in the pipe."
+  },
+  {
+    "name": "Simseru",
+    "timestamp": "2026-03-22T05:05:00.000Z",
+    "message": "3/21/2026\nCaladbolg: DMG increased from 94 to 97 for dmg ratio to be on par with other 2h empys. (DAT not updated)\nArmageddon: Should be equip able now.\nWildfire: Updated to no longer be an elemental WS so it can scale and perform better. Please let me know how it feels or if its buggy."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-03-26T00:24:00.000Z",
+    "message": "3/25/2026\n\nBrigand's Chart no longer a Reward from \"Inside the Belly\" Quest due to Bug for Instance\nPirate Chart Reward Chance is slighly raised.\nLuminium Ore Mine Rate has been Increased in Halvung.\nCrafting Rings are Now purchaseable from Guild vendors for 80k guild points.\n\nServer Reboot required for\n\nRdm Sword skill is now A+\n\nAnother Patch this weekend."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-03-27T12:15:00.000Z",
+    "message": "Server down for Maintenance. Be up soon."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-03-27T14:09:00.000Z",
+    "message": "Server back up."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-03-27T03:44:00.000Z",
+    "message": "A small quality of life improvement today: Domenic is now able to teleport you to the Entrance to Attohwa Chasm for 2500 gil."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-03-27T16:03:00.000Z",
+    "message": "The \"Open Sesame\" quest has become accessible in the Eastern Altepa Desert."
   }
 ]
