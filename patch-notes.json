@@ -592,23 +592,14 @@
   {
     "name": "Simseru",
     "timestamp": "2026-03-22T05:05:00.000Z",
-    "message": "3/21/2026\nCaladbolg: DMG increased from 94 to 97 for dmg ratio to be on par with other 2h empys. (DAT not updated)\nArmageddon: Should be equip able now.\nWildfire: Updated to no longer be an elemental WS so it can scale and perform better. Please let me know how it feels or if its buggy."
+    "message": "Caladbolg: DMG increased from 94 to 97 for dmg ratio to be on par with other 2h empys. (DAT not updated)\nArmageddon: Should be equip able now.\nWildfire: Updated to no longer be an elemental WS so it can scale and perform better. Please let me know how it feels or if its buggy."
   },
   {
     "name": "MrBright",
     "timestamp": "2026-03-26T00:24:00.000Z",
-    "message": "3/25/2026\n\nBrigand's Chart no longer a Reward from \"Inside the Belly\" Quest due to Bug for Instance\nPirate Chart Reward Chance is slighly raised.\nLuminium Ore Mine Rate has been Increased in Halvung.\nCrafting Rings are Now purchaseable from Guild vendors for 80k guild points.\n\nServer Reboot required for\n\nRdm Sword skill is now A+\n\nAnother Patch this weekend."
+    "message": "Brigand's Chart no longer a Reward from \"Inside the Belly\" Quest due to Bug for Instance\nPirate Chart Reward Chance is slighly raised.\nLuminium Ore Mine Rate has been Increased in Halvung.\nCrafting Rings are Now purchaseable from Guild vendors for 80k guild points.\n\nServer Reboot required for\n\nRdm Sword skill is now A+\n\nAnother Patch this weekend."
   },
-  {
-    "name": "MrBright",
-    "timestamp": "2026-03-27T12:15:00.000Z",
-    "message": "Server down for Maintenance. Be up soon."
-  },
-  {
-    "name": "MrBright",
-    "timestamp": "2026-03-27T14:09:00.000Z",
-    "message": "Server back up."
-  },
+
   {
     "name": "MrBright",
     "timestamp": "2026-03-27T03:44:00.000Z",
@@ -632,7 +623,7 @@
   {
     "name": "MrBright",
     "timestamp": "2026-04-10T12:15:00.000Z",
-    "message": "4/9/2026\nStarting from 4/9/26, every Empyrean Weapon Skill operates in the same way as Relic Weapon Skills when used against Pets belonging to (HNMs) like Tiamat, Jormungand, and Vrtra.\n\nClub & Staff Will operate in same manner in future Patch"
+    "message": "Starting from 4/9/26, every Empyrean Weapon Skill operates in the same way as Relic Weapon Skills when used against Pets belonging to (HNMs) like Tiamat, Jormungand, and Vrtra.\n\nClub & Staff Will operate in same manner in future Patch"
   },
   {
     "name": "MrBright",
@@ -642,6 +633,6 @@
   {
     "name": "MrBright",
     "timestamp": "2026-04-15T10:16:00.000Z",
-    "message": "4/14/2026\n\nServer Economics:\nDynamis Glass Price has been reduced to 100,000 GIL.\n\nCrafts:\nFishing skill-up rate has increased.\n\nQoL:\nFast as Fk (NPC Sky/Sea Warp) now has \"Main\" Option as Central Island Warp in Sky."
+    "message": "Server Economics:\nDynamis Glass Price has been reduced to 100,000 GIL.\n\nCrafts:\nFishing skill-up rate has increased.\n\nQoL:\nFast as Fk (NPC Sky/Sea Warp) now has \"Main\" Option as Central Island Warp in Sky."
   }
 ]
