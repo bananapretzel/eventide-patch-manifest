@@ -618,5 +618,30 @@
     "name": "MrBright",
     "timestamp": "2026-03-27T16:03:00.000Z",
     "message": "The \"Open Sesame\" quest has become accessible in the Eastern Altepa Desert."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-04-08T12:10:00.000Z",
+    "message": "Live as Tonight\n\nISP NPCs to provide access to more rank items (subject to change once missions are fully functional)."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-04-08T15:51:00.000Z",
+    "message": "Pld Patch. (didn't forget about you Rdms)\n\nShield Bash is now 100% Stun Rate."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-04-10T12:15:00.000Z",
+    "message": "4/9/2026\nStarting from 4/9/26, every Empyrean Weapon Skill operates in the same way as Relic Weapon Skills when used against Pets belonging to (HNMs) like Tiamat, Jormungand, and Vrtra.\n\nClub & Staff Will operate in same manner in future Patch"
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-04-14T16:55:00.000Z",
+    "message": "The issue with Toau Mission 44 has been resolved, and progression through the mission is now possible."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-04-15T10:16:00.000Z",
+    "message": "4/14/2026\n\nServer Economics:\nDynamis Glass Price has been reduced to 100,000 GIL.\n\nCrafts:\nFishing skill-up rate has increased.\n\nQoL:\nFast as Fk (NPC Sky/Sea Warp) now has \"Main\" Option as Central Island Warp in Sky."
   }
 ]
