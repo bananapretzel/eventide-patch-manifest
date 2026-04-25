@@ -634,5 +634,25 @@
     "name": "MrBright",
     "timestamp": "2026-04-15T10:16:00.000Z",
     "message": "Server Economics:\nDynamis Glass Price has been reduced to 100,000 GIL.\n\nCrafts:\nFishing skill-up rate has increased.\n\nQoL:\nFast as Fk (NPC Sky/Sea Warp) now has \"Main\" Option as Central Island Warp in Sky."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-04-18T17:51:00.000Z",
+    "message": "NEW Quest\n\nIn Port San d'Oria, there is an NPC named \"Ambleon\" (located near MH, but will move to the Docks after the server restarts), who now interacts as follows:\n\nMust be a job lvl 55 or higher\nTrading any quantity of the same type of Small Fish will earn you an equal number of Moat Carp!\nTrading any quantity of the same type of Large Fish will earn you 3X the amount of Moat Carp!\n\nDaily trade-in of 24 fish = (Adaman Ingot)\n1,000 milestone = \"Surprise\"\n2,000 milestone = \"Better Surprise\""
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-04-19T13:09:00.000Z",
+    "message": "\"Open Sesame\" Quest is now Working as intended."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-04-19T17:49:00.000Z",
+    "message": "4/19/26\"Ambleon\" Npc is now located on the Docks in Port Sandy.\n\"ZNM-Nosferatu\" is working as intended. (He is alot Harder, get ready.)\n\"ENM-Uninvited Guest Drop_Table has been Tweaked for better Premium rewards."
+  },
+  {
+    "name": "Validok",
+    "timestamp": "2026-04-22T16:25:00.000Z",
+    "message": "The following content has been fixed and is now working as intended:\n\nQuest:\n• Waking the Beast\n\nENMs: \n• Holy Cow and Brothers (Bearclaw Pinnacle)\n\nIf you notice any strange behavior, please submit a bug report."
   }
 ]
