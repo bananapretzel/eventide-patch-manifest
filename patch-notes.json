@@ -669,5 +669,20 @@
     "name": "MrBright",
     "timestamp": "2026-05-09T11:19:00Z",
     "message": "All Starter Slimes now reward 500g per kill.\n\nAll other \"Shiny\" Mobs now reward Gil."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-05-16T03:47:00.000Z",
+    "message": "Patch Notes\nRed Mage Mastery Tier 4 - Now Available!\nRDM now has access to its first Mastery Level 4 upgrade.\n\nMastery 4 Unlock Requirement\nUse Chainspell a total of 10 times\n\nMastery 4 Reward\nAll Enhancing Magic becomes AoE\n20-yalm radius\nApplies to all party members in range\n\nGuttler Update\nWAR can now equip Guttler!\n\nDynamis - Valkurm (Dreamlands) Now Open!\nThe first Dreamlands Dynamis zone is officially live.\n\nFeatures\nNightmare mobs\nTime statues\nBoss + sub-boss encounters\nSpecial Shiny variants with unique drops\n\nComing Next Patch\nDreamlands zones will have separate cooldown timers\n\nCouple Items that are pending Testing in this patch for testing."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-05-17T22:35:00.000Z",
+    "message": "Domenic now offers Warp to \"Throne Room\"\n- 3000 gil + Rank 5\n\nNew Command \"!dreamsouls\" for future Shop.\n- You can obtain \"Dream Souls\" in Dreamland dynamis areas.\n\nDreamland Shiny (nq) >> 8% shiny chance >> 50% Siren Hair >> 1 Dream Soul\nDreamland Shiny (HQ) >> 2% shiny chance >> 50% Wyrm Horn >> 4 Dream Souls\n\nAll shiny mobs follow Shiny Mechanics in dynamis except NO GILs."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-05-19T23:31:00.000Z",
+    "message": "Small Update\n\nDreamland Shiny (nq) >> 8% shiny chance >> 25% Siren Hair >> 1 Dream Soul\nDreamland Shiny (HQ) >> 2% shiny chance >> 30% Wyrm Horn >> 4 Dream Souls"
   }
 ]
