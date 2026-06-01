@@ -684,5 +684,35 @@
     "name": "MrBright",
     "timestamp": "2026-05-19T23:31:00.000Z",
     "message": "Small Update\n\nDreamland Shiny (nq) >> 8% shiny chance >> 25% Siren Hair >> 1 Dream Soul\nDreamland Shiny (HQ) >> 2% shiny chance >> 30% Wyrm Horn >> 4 Dream Souls"
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-05-23T17:40:00.000Z",
+    "message": "Update:\n\nTest Dummy stats remain the same Base Stats for Testing purposes.\n\nIts Mob Level is set to lvl 40, for Players to be able to cap Skills @ lvl 40."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-05-24T01:02:00.000Z",
+    "message": "Sky]\nAll Sky Gods now grant HNM Points according to Tiers.\nLesser Gods grant (4) Tier III HNM points per kill.\n\nKirin grants (2) Tier IV HNM points per kill.\nKirin's lesser God adds ZERO HNM points.\n\n[Sea]\nAll Sea Jailors now grant HNM Points by Tiers.\n\nIx'Aern (DRK, MNK, DRG) each grant (2) HNM Tier III points per kill.\nJailors of Temperance, Fortitude, Faith each grant (4) HNM Tier III points per kill.\nJailors of Prudence, Hope, Justice each grant (1) HNM Tier IV point per kill.\nJailor of Love grants (4) HNM Tier IV points per kill.\nAbsolute Virtue grants (10) HNM Tier IV points per kill.\n\n[QoL]\nAw'ghrah can drop an extra Ghrah Chip, and the drop rate has increased to 15%.\nEo'ghrah can drop an extra Ghrah Chip, and the drop rate has increased to 30%.\n\n[Dynamis Valkurm]\nMob HP has been adjusted to approximately 10k HP.\nAbout 50 additional mobs have been added.\nSeveral issues with drop rates have been fixed."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-05-25T21:31:00.000Z",
+    "message": "Update\nThank you for your patience.\n\nAll ZNMs have been updated and are now functioning as intended. Many of these encounters will be significantly more challenging than before - they will actually punch back.\n\nHNM Point Rewards by ZNM Tier:\n\nTier 1: 4 HNM Tier 1 points\nTier 2: 4 HNM Tier 2 points\nTier 3: 4 HNM Tier 3 points\nTier 4: 4 HNM Tier 4 points\nPandemonium Warden: 10 HNM Tier 4 points\n\nA huge thank-you to Validok for taking on and completing this major overhaul."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-05-25T23:30:00.000Z",
+    "message": "Forgot to add to this update:\n\nAll ToAU Shiny Mobs reward (50) Zeni per kill."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-05-27T03:03:00.000Z",
+    "message": "Achieving True Power (PUP LB5) is now fixed and working as intended."
+  },
+  {
+    "name": "MrBright",
+    "timestamp": "2026-06-01T02:21:00.000Z",
+    "message": "RUN is now available for play!\n\nQuest start NPC is Arciela in Ru'Lude Gardens."
   }
 ]
